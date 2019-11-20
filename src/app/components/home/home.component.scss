@@ -1,0 +1,154 @@
+:host {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.mat-card-subtitle {
+  font-size: 1.1rem;
+}
+#left {
+  margin: 0 1rem;
+  margin-bottom: 1rem;
+}
+#right {
+  margin: 0 1rem;
+  margin-bottom: 1rem;
+  height: 17rem;
+}
+.container {
+  margin: 50px 0;
+  width: 100%;
+}
+header h1 {
+  color: #fff;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.accordion {
+  background: #bababa;
+  width: 100%;
+  min-width: 400px;
+  display: inline-block;
+  list-style-type: none;
+  overflow: hidden;
+  height: 200px;
+  font-size: 0;
+  margin: 0;
+  padding: 0;
+}
+.tab {
+  display: inline-block;
+  background-color: #444;
+  border-right: #bababa 1px solid;
+  width: 80px;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+  margin: 0;
+  transition: all 0.5s ease-in-out 0.1s;
+}
+.tab:hover {
+  width: 350px;
+}
+.tab:hover .social a:before {
+  margin-left: -100px;
+}
+.tab:hover .social a:after {
+  margin-left: -5px;
+}
+.tab .content {
+  background: #fff;
+  width: 260px;
+  height: 200px;
+  margin-left: 80px;
+  padding: 25px 0 0 15px;
+  position: relative;
+}
+.tab .content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+.tab .content p {
+  font-size: 0.85rem;
+  line-height: 1.4rem;
+  padding-right: 30px;
+}
+.social a:after,
+.social a:before {
+  transition: all 0.4s ease-in-out 0.1s;
+  width: 80px;
+  height: 200px;
+  position: absolute;
+  text-indent: 0;
+  padding-top: 90px;
+  padding-left: 25px;
+  display: block;
+  font: normal 30px Genericons;
+  color: #fff;
+}
+.social a:after {
+  font-size: 48px;
+  padding-left: 20px;
+  padding-top: 80px;
+  margin-left: 85px;
+}
+.github a:before,
+.github a:after {
+  content: "\f200";
+}
+.github a:after {
+  background-color: #24292e;
+}
+.twitter a:before,
+.twitter a:after {
+  content: "\f202";
+}
+.twitter a:after {
+  background-color: #22a3f2;
+}
+.linkedin a:before,
+.linkedin a:after {
+  content: "\f207";
+}
+.linkedin a:after {
+  background-color: #283e4a;
+}
+.kaggle a:before,
+.kaggle a:after {
+  content: "\f462";
+}
+.kaggle a:after {
+  background-color: #20beff;
+}
+@media (max-width: 950px) {
+  .tab {
+    display: block;
+    width: 100%;
+    border-bottom: 3px #333 solid;
+  }
+  .accordion {
+    display: block;
+    min-width: 450px;
+    height: auto;
+  }
+  .tab .content {
+    width: 85%;
+  }
+  .tab:hover {
+    width: 100%;
+  }
+}
+@media (max-width: 680px) {
+  .container {
+    width: 95%;
+  }
+  .accordion {
+    width: 100%;
+    min-width: 350px;
+  }
+}
+.social {
+  font-size: 0;
+  height: 0;
+  width: 0;
+}

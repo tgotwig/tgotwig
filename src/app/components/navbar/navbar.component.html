@@ -1,0 +1,6 @@
+<nav mat-tab-nav-bar class="blue darken-1" style="height:48px; padding:0;">
+  <div class="col">
+    <a mat-tab-link *ngFor="let link of navLinks" [routerLink]="link.path">{{link.label}}
+    </a>
+  </div>
+</nav>

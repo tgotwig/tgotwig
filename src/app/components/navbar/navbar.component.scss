@@ -1,0 +1,18 @@
+:host {
+  opacity: 0.8;
+  margin-top: 5rem;
+}
+.col {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+a {
+  font-size: 2rem;
+  color: #000000;
+}
+@media all and (max-width: 500px) {
+  a {
+    font-size: 1rem;
+  }
+}

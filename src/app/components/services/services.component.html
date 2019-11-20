@@ -1,0 +1,17 @@
+<mat-card id="right" class="myCard">
+  <mat-card-header>
+    <mat-card-title
+      >{{ card2.title }}
+      <i class="material-icons">important_devices</i></mat-card-title
+    >
+  </mat-card-header>
+  <mat-card-content>
+    <p>{{ card2.desc }}</p>
+    <mat-list>
+      <mat-list-item *ngFor="let item of card2.items">
+        <mat-icon mat-list-icon>check</mat-icon>
+        <p mat-line>{{ item }}</p>
+      </mat-list-item>
+    </mat-list>
+  </mat-card-content>
+</mat-card>

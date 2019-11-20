@@ -1,0 +1,22 @@
+:host {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.myCard {
+  min-width: 100px;
+  max-width: 900px;
+}
+.mat-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+.mat-list-base .mat-list-item .mat-line {
+  white-space: normal;
+}
+@media all and (max-width: 800px) {
+  .mat-list {
+    display: block;
+  }
+}

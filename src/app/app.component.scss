@@ -1,0 +1,10 @@
+:host {
+  height: 100%;
+}
+#wrapper {
+  height: calc(100% - 48px);
+  padding: 1rem 1rem;
+}
+#particles-js-canvas-el {
+  height: 100%;
+}
