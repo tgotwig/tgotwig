@@ -1,27 +1,23 @@
-import { Component, OnInit } from "@angular/core";
+import { Component } from '@angular/core'
 
 @Component({
-  selector: "app-navbar",
-  templateUrl: "./navbar.component.html",
-  styleUrls: ["./navbar.component.scss"]
+  selector: 'app-navbar',
+  templateUrl: './navbar.component.html',
+  styleUrls: ['./navbar.component.scss']
 })
-export class NavbarComponent implements OnInit {
+export class NavbarComponent {
   navLinks = [
     {
-      path: "/",
-      label: "Home"
+      path: '/',
+      label: 'Home'
     },
     {
-      path: "/services",
-      label: "Services"
+      path: '/services',
+      label: 'Services'
     },
     {
-      path: "/certificates",
-      label: "Certificates"
+      path: '/certificates',
+      label: 'Certificates'
     }
-  ];
-
-  constructor() {}
-
-  ngOnInit() {}
+  ]
 }

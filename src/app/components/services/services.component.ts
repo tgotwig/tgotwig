@@ -1,11 +1,11 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core'
 
 @Component({
   selector: 'app-services',
   templateUrl: './services.component.html',
   styleUrls: ['./services.component.scss']
 })
-export class ServicesComponent implements OnInit {
+export class ServicesComponent {
   card2 = {
     title: `Full-Stack-Development`,
     desc: `
@@ -22,9 +22,5 @@ export class ServicesComponent implements OnInit {
       'Container-Based Deployments 🐳',
       'Scientific Writing 🔬✍️'
     ]
-  };
-
-  constructor() {}
-
-  ngOnInit() {}
+  }
 }
