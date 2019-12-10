@@ -125,6 +125,13 @@ header h1 {
 .fa-kaggle a:after {
   background-color: #20beff;
 }
+.fa-stack-overflow a:before,
+.fa-stack-overflow a:after {
+  content: "\f16c";
+}
+.fa-stack-overflow a:after {
+  background-color: #F48024;
+}
 @media (max-width: 950px) {
   .tab {
     display: block;
