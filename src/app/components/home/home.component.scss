@@ -73,6 +73,11 @@ header h1 {
   line-height: 1.4rem;
   padding-right: 30px;
 }
+.social {
+  font-size: 0;
+  height: 0;
+  width: 0;
+}
 .social a:after,
 .social a:before {
   transition: all 0.4s ease-in-out 0.1s;
@@ -83,7 +88,7 @@ header h1 {
   padding-top: 90px;
   padding-left: 25px;
   display: block;
-  font: normal 30px Genericons;
+  font: normal 30px "Font Awesome 5 Brands";
   color: #fff;
 }
 .social a:after {
@@ -92,32 +97,32 @@ header h1 {
   padding-top: 80px;
   margin-left: 85px;
 }
-.github a:before,
-.github a:after {
-  content: "\f200";
+.fa-github a:before,
+.fa-github a:after {
+  content: "\f09b";
 }
-.github a:after {
+.fa-github a:after {
   background-color: #24292e;
 }
-.twitter a:before,
-.twitter a:after {
-  content: "\f202";
+.fa-twitter a:before,
+.fa-twitter a:after {
+  content: "\f099";
 }
-.twitter a:after {
+.fa-twitter a:after {
   background-color: #22a3f2;
 }
-.linkedin a:before,
-.linkedin a:after {
-  content: "\f207";
+.fa-linkedin-in a:before,
+.fa-linkedin-in a:after {
+  content: "\f0e1";
 }
-.linkedin a:after {
+.fa-linkedin-in a:after {
   background-color: #283e4a;
 }
-.kaggle a:before,
-.kaggle a:after {
-  content: "\f462";
+.fa-kaggle a:before,
+.fa-kaggle a:after {
+  content: "\f5fa";
 }
-.kaggle a:after {
+.fa-kaggle a:after {
   background-color: #20beff;
 }
 @media (max-width: 950px) {
@@ -146,9 +151,4 @@ header h1 {
     width: 100%;
     min-width: 350px;
   }
-}
-.social {
-  font-size: 0;
-  height: 0;
-  width: 0;
 }
