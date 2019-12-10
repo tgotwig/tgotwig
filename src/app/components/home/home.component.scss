@@ -9,6 +9,7 @@
 #left {
   margin: 0 1rem;
   margin-bottom: 1rem;
+  width: 50rem;
 }
 #right {
   margin: 0 1rem;
@@ -131,6 +132,13 @@ header h1 {
 }
 .fa-stack-overflow a:after {
   background-color: #F48024;
+}
+.fa-medium-m a:before,
+.fa-medium-m a:after {
+  content: "\f3c7";
+}
+.fa-medium-m a:after {
+  background-color: #029E74;
 }
 @media (max-width: 950px) {
   .tab {
