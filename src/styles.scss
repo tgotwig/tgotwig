@@ -9,12 +9,13 @@ address,
 div,
 li {
   font-size: 1.2rem;
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-style: normal;
 }
 .mat-card-header .mat-card-title {
   font-size: 2rem;
-  font-family: "Alfa Slab One", cursive;
+  font-family: "Nunito", cursive;
+  margin: 0;
 }
 .mat-card-content > :last-child:not(.mat-card-footer),
 .mat-card > :last-child:not(.mat-card-footer) {
@@ -31,10 +32,10 @@ body {
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }
 @font-face {
-  font-family: "Alfa Slab One";
-  src: url("./assets/webfonts/AlfaSlabOne-Regular.ttf");
-}
-@font-face {
   font-family: "Roboto";
   src: url("./assets/webfonts/Roboto-Regular.ttf");
+}
+@font-face {
+  font-family: "Nunito";
+  src: url("./assets/webfonts/Nunito-Regular.ttf");
 }
