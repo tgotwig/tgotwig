@@ -28,7 +28,10 @@
               "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.scss"
             ],
-            "scripts": ["./node_modules/particles.js/particles.js"]
+            "scripts": [
+              "node_modules/particles.js/particles.js",
+              "node_modules/gsap/dist/gsap.min.js"
+            ]
           },
           "configurations": {
             "production": {

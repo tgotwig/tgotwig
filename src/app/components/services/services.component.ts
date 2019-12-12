@@ -1,4 +1,5 @@
 import { Component } from '@angular/core'
+declare var gsap: any
 
 @Component({
   selector: 'app-services',
@@ -22,5 +23,23 @@ export class ServicesComponent {
       'Container-Based Deployments 🐳',
       'Scientific Writing 🔬✍️'
     ]
+  }
+
+  ngOnInit() {
+    gsap.from('#right', {
+      opacity: 0,
+      duration: 1,
+      y: -50
+    })
+    gsap.from('#block1', {
+      opacity: 0,
+      duration: 1.5,
+      delay: 0.4
+    })
+    gsap.from('#block2', {
+      opacity: 0,
+      duration: 1.5,
+      delay: 0.6
+    })
   }
 }

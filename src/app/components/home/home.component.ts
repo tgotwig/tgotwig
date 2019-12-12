@@ -1,4 +1,5 @@
 import { Component } from '@angular/core'
+declare var gsap: any
 
 @Component({
   selector: 'app-home',
@@ -44,4 +45,34 @@ export class HomeComponent {
       text: 'Check out my writings on Medium ✍️'
     },
   ]
+
+  ngOnInit() {
+    gsap.from('#left', {
+      opacity: 0,
+      duration: 1,
+      x: -50,
+      y: -50
+    })
+    gsap.from('#right', {
+      opacity: 0,
+      duration: 1,
+      x: 50,
+      y: -50
+    })
+    gsap.from('#block1', {
+      opacity: 0,
+      duration: 1.5,
+      delay: 0.4,
+    })
+    gsap.from('#block2', {
+      opacity: 0,
+      duration: 1.5,
+      delay: 0.6,
+    })
+    gsap.from('#block3', {
+      opacity: 0,
+      duration: 1.5,
+      delay: 0.8,
+    })
+  }
 }

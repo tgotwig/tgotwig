@@ -1,4 +1,5 @@
 import { Component } from '@angular/core'
+declare var gsap: any
 
 @Component({
   selector: 'app-certifications',
@@ -27,4 +28,12 @@ export class CertificationsComponent {
       ]
     }
   ]
+
+  ngOnInit() {
+    gsap.from('.mat-tab-group', {
+      opacity: 0,
+      duration: 1.5,
+      y: -50
+    })
+  }
 }

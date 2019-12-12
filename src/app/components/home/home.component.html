@@ -5,7 +5,7 @@
     </mat-card-title>
   </mat-card-header>
   <mat-card-content>
-    <p>
+    <p id="block1">
       In mid of 2018, I received the
       <b>Bachelor of Science in Bioinformatics</b> degree. <br />
 
@@ -17,32 +17,36 @@
       find a Conference-Poster about that Project.
     </p>
 
-    <p>This site provides two other tabs of information about me:</p>
-    <ul>
-      <li><b>Services</b> lists some of my provided services</li>
-      <li>
-        <b>Certificates</b> lists my work experiences and completed online
-        courses
-      </li>
-    </ul>
-
-    <p>As well as 👇</p>
-
-    <div class="container">
-      <ul class="accordion">
-        <li class="tab" *ngFor="let tab of data">
-          <div class="social {{tab.class}}">
-            <a href="{{tab.href}}" target=" _blank">{{tab.name}}</a>
-          </div>
-          <div class="content">
-            <h2>{{tab.name}}</h2>
-            <p>
-              {{tab.text}}
-            </p>
-          </div>
+    <div id="block2">
+      <p>This site provides two other tabs of information about me:</p>
+      <ul>
+        <li><b>Services</b> lists some of my provided services</li>
+        <li>
+          <b>Certificates</b> lists my work experiences and completed online
+          courses
         </li>
       </ul>
     </div>
+
+    <div id="block3">
+      <p>As well as 👇</p>
+      <div class="container">
+        <ul class="accordion">
+          <li class="tab" *ngFor="let tab of data">
+            <div class="social {{tab.class}}">
+              <a href="{{tab.href}}" target=" _blank">{{tab.name}}</a>
+            </div>
+            <div class="content">
+              <h2>{{tab.name}}</h2>
+              <p>
+                {{tab.text}}
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
   </mat-card-content>
 </mat-card>
 
