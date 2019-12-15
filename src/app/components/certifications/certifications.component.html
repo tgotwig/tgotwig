@@ -1,12 +1,10 @@
 <mat-tab-group>
   <mat-tab *ngFor="let item of items" label="{{item.name}}">
     <div class="myContainer">
-      <mat-card
-        class="myCard"
-        *ngFor="let cert of item.cert"
-        style="margin:0.5rem 0;"
-      >
-        <img mat-card-image src="{{cert.url}}" />
+      <mat-card class="myCard" *ngFor="let cert of item.cert" style="margin:0.5rem 0;">
+        <a href="{{cert.download}}" target="_blank">
+          <img mat-card-image src="{{cert.preview}}" />
+        </a>
       </mat-card>
     </div>
   </mat-tab>

@@ -11,20 +11,47 @@ export class CertificationsComponent {
     {
       name: 'Education',
       cert: [
-        { url: 'assets/img/zertifikate/education/bachelor.png' },
-        { url: 'assets/img/zertifikate/seminars/gcb2017.jpg' },
-        { url: 'assets/img/zertifikate/seminars/gcb2015.jpg' }
+        {
+          preview: 'assets/img/bachelor.png',
+          download: '../../assets/pdf/bachelor.pdf'
+        },
+        {
+          preview: 'assets/img/gcb2017.jpg',
+          download: '../../assets/pdf/gcb2017.pdf'
+        },
+        {
+          preview: 'assets/img/gcb2015.jpg',
+          download: '../../assets/pdf/gcb2015.pdf'
+        }
       ]
     },
     {
       name: 'Jobs',
       cert: [
-        { url: 'assets/img/zertifikate/jobs/arago.jpg' },
-        { url: 'assets/img/zertifikate/jobs/jlu.jpg' },
-        { url: 'assets/img/zertifikate/jobs/tci.jpg' },
-        { url: 'assets/img/zertifikate/jobs/infobase.jpg' },
-        { url: 'assets/img/zertifikate/jobs/hagel.jpg' },
-        { url: 'assets/img/zertifikate/jobs/thm.jpg' }
+        {
+          preview: 'assets/img/arago.jpg',
+          download: '../../assets/pdf/arago.pdf'
+        },
+        {
+          preview: 'assets/img/jlu.jpg',
+          download: '../../assets/pdf/jlu.pdf'
+        },
+        {
+          preview: 'assets/img/tci.jpg',
+          download: '../../assets/pdf/tci.pdf'
+        },
+        {
+          preview: 'assets/img/infobase.jpg',
+          download: '../../assets/pdf/infobase.pdf'
+        },
+        {
+          preview: 'assets/img/hagel.jpg',
+          download: '../../assets/pdf/hagel.pdf'
+        },
+        {
+          preview: 'assets/img/thm.jpg',
+          download: '../../assets/pdf/thm.pdf'
+        }
       ]
     }
   ]
