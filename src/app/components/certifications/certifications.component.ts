@@ -13,15 +13,15 @@ export class CertificationsComponent {
       cert: [
         {
           preview: 'assets/img/bachelor.png',
-          download: '../../assets/pdf/bachelor.pdf'
+          download: './assets/pdf/bachelor.pdf'
         },
         {
           preview: 'assets/img/gcb2017.jpg',
-          download: '../../assets/pdf/gcb2017.pdf'
+          download: './assets/pdf/gcb2017.pdf'
         },
         {
           preview: 'assets/img/gcb2015.jpg',
-          download: '../../assets/pdf/gcb2015.pdf'
+          download: './assets/pdf/gcb2015.pdf'
         }
       ]
     },
@@ -30,27 +30,27 @@ export class CertificationsComponent {
       cert: [
         {
           preview: 'assets/img/arago.jpg',
-          download: '../../assets/pdf/arago.pdf'
+          download: './assets/pdf/arago.pdf'
         },
         {
           preview: 'assets/img/jlu.jpg',
-          download: '../../assets/pdf/jlu.pdf'
+          download: './assets/pdf/jlu.pdf'
         },
         {
           preview: 'assets/img/tci.jpg',
-          download: '../../assets/pdf/tci.pdf'
+          download: './assets/pdf/tci.pdf'
         },
         {
           preview: 'assets/img/infobase.jpg',
-          download: '../../assets/pdf/infobase.pdf'
+          download: './assets/pdf/infobase.pdf'
         },
         {
           preview: 'assets/img/hagel.jpg',
-          download: '../../assets/pdf/hagel.pdf'
+          download: './assets/pdf/hagel.pdf'
         },
         {
           preview: 'assets/img/thm.jpg',
-          download: '../../assets/pdf/thm.pdf'
+          download: './assets/pdf/thm.pdf'
         }
       ]
     }
