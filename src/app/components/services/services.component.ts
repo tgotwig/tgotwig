@@ -1,4 +1,5 @@
-import { Component } from '@angular/core'
+import { Component, OnInit } from '@angular/core'
+import { StoreService } from '../../store.service'
 declare var gsap: any
 
 @Component({
@@ -6,7 +7,7 @@ declare var gsap: any
   templateUrl: './services.component.html',
   styleUrls: ['./services.component.scss']
 })
-export class ServicesComponent {
+export class ServicesComponent implements OnInit {
   card2 = {
     title: `Full-Stack-Development`,
     desc: `
@@ -26,20 +27,29 @@ export class ServicesComponent {
   }
 
   ngOnInit() {
-    gsap.from('#right', {
-      opacity: 0,
-      duration: 1,
-      y: -50
-    })
-    gsap.from('#block1', {
-      opacity: 0,
-      duration: 1.5,
-      delay: 0.4
-    })
-    gsap.from('#block2', {
-      opacity: 0,
-      duration: 1.5,
-      delay: 0.6
-    })
+    if (this.store.SERVICES_ANIMATION) {
+      gsap.from('#right', {
+        opacity: 0,
+        duration: 1,
+        y: -50
+      })
+      gsap.from('#block1', {
+        opacity: 0,
+        duration: 1.5,
+        delay: 0.4
+      })
+      gsap.from('#block2', {
+        opacity: 0,
+        duration: 1.5,
+        delay: 0.6
+      })
+    } else {
+      gsap.from('#left,#right,#block1,#block2,#block3', {
+        opacity: 0,
+      })
+    }
+    this.store.SERVICES_ANIMATION = false
   }
+
+  constructor(public store: StoreService) { }
 }

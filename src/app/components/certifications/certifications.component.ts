@@ -1,4 +1,5 @@
-import { Component } from '@angular/core'
+import { Component, OnInit } from '@angular/core'
+import { StoreService } from '../../store.service'
 declare var gsap: any
 
 @Component({
@@ -6,7 +7,7 @@ declare var gsap: any
   templateUrl: './certifications.component.html',
   styleUrls: ['./certifications.component.scss']
 })
-export class CertificationsComponent {
+export class CertificationsComponent implements OnInit {
   items = [
     {
       name: 'Education',
@@ -67,4 +68,6 @@ export class CertificationsComponent {
       y: -50
     })
   }
+
+  constructor(public store: StoreService) { }
 }
