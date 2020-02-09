@@ -49,37 +49,14 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
     if (this.store.HOME_ANIMATION) {
-      gsap.from('#left', {
-        opacity: 0,
-        duration: 1,
-        x: -50,
-        y: -50
-      })
-      gsap.from('#right', {
-        opacity: 0,
-        duration: 1,
-        x: 50,
-        y: -50
-      })
-      gsap.from('#block1', {
-        opacity: 0,
-        duration: 1.5,
-        delay: 0.4,
-      })
-      gsap.from('#block2', {
-        opacity: 0,
-        duration: 1.5,
-        delay: 0.6,
-      })
-      gsap.from('#block3', {
-        opacity: 0,
-        duration: 1.5,
-        delay: 0.8,
-      })
+      gsap.from('#left', { opacity: 0, duration: 1, x: -50, y: -50 })
+      gsap.from('#right', { opacity: 0, duration: 1, x: 50, y: -50 })
+      gsap.from('#block1', { opacity: 0, duration: 1.5, delay: 0.4, })
+      gsap.from('#block2', { opacity: 0, duration: 1.5, delay: 0.6, })
+      gsap.from('#block3', { opacity: 0, duration: 1.5, delay: 0.8, })
+      gsap.from('.material-icons', { opacity: 0, delay: 1, duration: 2 })
     } else {
-      gsap.from('#left,#right,#block1,#block2,#block3', {
-        opacity: 0,
-      })
+      gsap.from('#left,#right,#block1,#block2,#block3', { opacity: 0, })
     }
     this.store.HOME_ANIMATION = false
   }
