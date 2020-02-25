@@ -11,18 +11,18 @@ export class ServicesComponent implements OnInit {
   card2 = {
     title: `Full-Stack-Development`,
     desc: `
-      I always try to program along with best practices which are in common with the most of the people,
-      and I bring the following skill-sets with me 🤗👇
+      I always try to program along with best practices which are in common with the majority of the people 💻
+      I can build the following things for you 🤗👇
     `,
     items: [
-      'Beautiful SPA Websites 🖼✨',
-      'Beautiful visualizations 📊✨',
-      'General Bioinformatics skills 🐸',
+      'All kinds of Websites 🖼✨',
+      'Interactive Web-Visualizations 📊✨',
+      'Bioinformatic Applications 🐸',
       'Machine-Learning & AI 🤖',
-      'Designing Databases 🛢',
+      'Databases 🛢',
       'Strongly Security 🔒💪',
       'Container-Based Deployments 🐳',
-      'Scientific Writing 🔬✍️'
+      'Mobile Apps 📱'
     ]
   }
 
