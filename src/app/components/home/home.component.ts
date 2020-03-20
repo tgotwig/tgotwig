@@ -31,7 +31,7 @@ export class HomeComponent implements OnInit {
       name: 'Kaggle',
       class: 'fa-kaggle',
       href: 'https://www.kaggle.com/thomasgotwig',
-      text: 'Check out my Kaggle to see on which challenges I currently compete 🤖 an older account is also available under the URL-ending "tgotwig" 🤓'
+      text: 'Check out my Kaggle to see on which challenges I currently compete 🤖'
     },
     {
       name: 'Medium',
