@@ -4,9 +4,7 @@
   "scripts": {
     "start": "ng serve",
     "build": "ng build",
-    "deploy": "npm run deploy:ghp && npm run deploy:fb",
-    "deploy:ghp": "ng build --prod --base-href https://tgotwig.github.io/tgotwig/ && npx angular-cli-ghpages",
-    "deploy:fb": "ng build --prod && npx firebase-tools deploy"
+    "deploy": "ng build --prod && npx firebase-tools deploy"
   },
   "private": true,
   "dependencies": {
