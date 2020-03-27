@@ -33,12 +33,6 @@ export class HomeComponent implements OnInit {
       href: 'https://medium.com/@tgotwig',
       text: 'Check out my writings on Medium ✍️'
     },
-    {
-      name: 'Twitter',
-      class: 'fa-twitter',
-      href: 'https://twitter.com/tgotwig',
-      text: 'Follow me on Twitter for programming related posts in future 🦋'
-    },
   ]
 
   ngOnInit() {
