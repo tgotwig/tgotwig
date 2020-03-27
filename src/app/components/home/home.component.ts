@@ -28,12 +28,6 @@ export class HomeComponent implements OnInit {
       text: 'Check out my contributions on Stackoverflow 📚'
     },
     {
-      name: 'Kaggle',
-      class: 'fa-kaggle',
-      href: 'https://www.kaggle.com/thomasgotwig',
-      text: 'Check out my Kaggle to see on which challenges I currently compete 🤖'
-    },
-    {
       name: 'Medium',
       class: 'fa-medium-m',
       href: 'https://medium.com/@tgotwig',
