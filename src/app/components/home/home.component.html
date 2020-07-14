@@ -1,13 +1,15 @@
 <mat-card id="left">
   <mat-card-header>
-    <mat-card-title id="mainTitle">Who is Thomas Gotwig?
+    <mat-card-title id="mainTitle"
+      >Who is Thomas Gotwig?
       <i class="material-icons">sentiment_very_satisfied</i>
     </mat-card-title>
   </mat-card-header>
   <mat-card-content>
-    <p>I'm a passioned programmer with a background in bioinformatics from my bachelor study. Currently I'm always
-      interested to hear about new topics from the areas of Full-Stack-Development, DevOps, Machine-Learning and
-      Systems-Programming.
+    <p>
+      I'm a passioned programmer with background in Bioinformatics from my
+      bachelor study. I'm always interested in topics such as
+      Full-Stack-Development, DevOps and Life-Science 🐍
     </p>
 
     <div id="block2">
@@ -19,34 +21,41 @@
     </div>
 
     <div id="block3">
-      <p>As well as an constantly updating <a href="assets/pdf/cv.pdf" target="_blank">CV</a> about me and some links 👇
+      <p>
+        As well as an constantly updating
+        <a href="assets/pdf/cv.pdf" target="_blank">CV</a> about me and some
+        links 👇
       </p>
       <div class="container">
         <ul class="accordion">
           <li class="tab" *ngFor="let tab of data">
-            <div class="social {{tab.class}}">
-              <a href="{{tab.href}}" target=" _blank">{{tab.name}}</a>
+            <div class="social {{ tab.class }}">
+              <a href="{{ tab.href }}" target=" _blank">{{ tab.name }}</a>
             </div>
             <div class="content">
-              <h2>{{tab.name}}</h2>
+              <h2>{{ tab.name }}</h2>
               <p>
-                {{tab.text}}
+                {{ tab.text }}
               </p>
             </div>
           </li>
         </ul>
       </div>
     </div>
-
   </mat-card-content>
 </mat-card>
 
 <mat-card id="right">
   <mat-card-title-group>
     <mat-card-title>Thomas Gotwig</mat-card-title>
-    <mat-card-subtitle>Bachelor of Science <i class="material-icons">school</i>
+    <mat-card-subtitle
+      >Bachelor of Science <i class="material-icons">school</i>
     </mat-card-subtitle>
-    <img mat-card-avatar src="assets/img/tgotwig.png" style="height: 80px; width: 80px;" />
+    <img
+      mat-card-avatar
+      src="assets/img/tgotwig.png"
+      style="height: 80px; width: 80px;"
+    />
   </mat-card-title-group>
   <mat-card-content>
     <address>
