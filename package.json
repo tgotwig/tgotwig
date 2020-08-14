@@ -24,6 +24,7 @@
     "material-design-icons": "^3.0.1",
     "particles.js": "^2.0.0",
     "rxjs": "~6.5.4",
+    "standard": "^14.3.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
