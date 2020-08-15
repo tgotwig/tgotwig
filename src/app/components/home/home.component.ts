@@ -18,7 +18,7 @@ export class HomeComponent implements OnInit {
     {
       name: "Linkedin",
       class: "fa-linkedin-in",
-      href: "https://www.linkedin.com/in/thomas-gotwig-244a35177",
+      href: "https://www.linkedin.com/in/tgotwig",
       text: "Connect with me on a professional level on Linkedin 🤗",
     },
     {
