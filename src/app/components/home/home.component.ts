@@ -28,10 +28,10 @@ export class HomeComponent implements OnInit {
       text: "Check out my contributions on Stackoverflow 📚",
     },
     {
-      name: "Medium",
-      class: "fa-medium-m",
-      href: "https://medium.com/@tgotwig",
-      text: "Check out my writings on Medium ✍️",
+      name: "Dev",
+      class: "fa-dev-m",
+      href: "https://dev.to/tgotwig",
+      text: "Check out my writings on dev.to ✍️",
     },
   ]
 
