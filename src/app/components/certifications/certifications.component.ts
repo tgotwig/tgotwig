@@ -34,6 +34,10 @@ export class CertificationsComponent implements OnInit {
       name: 'Jobs',
       cert: [
         {
+          preview: 'assets/img/job-mig.png',
+          download: 'assets/pdf/job-mig.pdf'
+        },
+        {
           preview: 'assets/img/job-arago.jpg',
           download: 'assets/pdf/job-arago.pdf'
         },
