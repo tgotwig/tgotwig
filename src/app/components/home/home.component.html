@@ -26,21 +26,21 @@
         <a href="assets/pdf/cv.pdf" target="_blank">CV</a> about me and some
         links 👇
       </p>
-      <div class="container">
-        <ul class="accordion">
-          <li class="tab" *ngFor="let tab of data">
-            <div class="social {{ tab.class }}">
-              <a href="{{ tab.href }}" target=" _blank">{{ tab.name }}</a>
-            </div>
-            <div class="content">
-              <h2>{{ tab.name }}</h2>
-              <p>
-                {{ tab.text }}
-              </p>
-            </div>
-          </li>
-        </ul>
-      </div>
+      <section class="card-list">
+        <a
+          class="card"
+          *ngFor="let obj of data"
+          href="{{ obj.href }}"
+          target=" _blank"
+        >
+          <mat-card>
+            <h4 class="{{ obj.class }}">{{ obj.name }}</h4>
+            <mat-card-content>
+              {{ obj.text }}
+            </mat-card-content>
+          </mat-card>
+        </a>
+      </section>
     </div>
   </mat-card-content>
 </mat-card>
@@ -54,7 +54,7 @@
     <img
       mat-card-avatar
       src="assets/img/tgotwig.png"
-      style="height: 80px; width: 80px;"
+      style="height: 80px; width: 80px"
     />
   </mat-card-title-group>
   <mat-card-content>

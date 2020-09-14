@@ -3,9 +3,7 @@
   justify-content: center;
   flex-wrap: wrap;
 }
-.mat-card-subtitle {
-  font-size: 1.1rem;
-}
+
 #left {
   margin: 0 1rem;
   margin-bottom: 1rem;
@@ -16,148 +14,45 @@
   margin-bottom: 1rem;
   height: 17rem;
 }
-#mainTitle {
-  margin: 0;
+
+.card-list {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
 }
-.accordion {
-  background: #bababa;
-  width: 100%;
-  min-width: 400px;
-  display: inline-block;
-  list-style-type: none;
-  overflow: hidden;
-  height: 200px;
-  font-size: 0;
-  margin: 0;
-  padding: 0;
+
+.card {
+  transition: 0.2s;
 }
-.tab {
-  display: inline-block;
-  background-color: #444;
-  border-right: #bababa 1px solid;
-  width: 80px;
-  height: 200px;
-  overflow: hidden;
-  position: relative;
-  margin: 0;
-  transition: all 0.5s ease-in-out 0.1s;
+.card > mat-card {
+  border-radius: 2rem;
 }
-.tab:hover {
-  width: 350px;
+.card:focus-within ~ .card,
+.card:hover ~ .card {
+  transform: translateX(2rem);
 }
-.tab:hover .social a:before {
-  margin-left: -100px;
+.card:hover {
+  transform: translateY(-1rem);
 }
-.tab:hover .social a:after {
-  margin-left: -5px;
+
+.github {
+  color: purple;
 }
-.tab .content {
-  background: #fff;
-  width: 260px;
-  height: 200px;
-  margin-left: 80px;
-  padding: 25px 0 0 15px;
-  position: relative;
+.linkedin {
+  color: steelblue;
 }
-.tab .content h1 {
-  font-size: 2.5rem;
-  margin-bottom: 10px;
+.stack-overflow {
+  color: orange;
 }
-.tab .content p {
-  font-size: 0.85rem;
-  line-height: 1.4rem;
-  padding-right: 30px;
+.dev {
+  color: black;
 }
-.social {
-  font-size: 0;
-  height: 0;
-  width: 0;
-}
-.social a:after,
-.social a:before {
-  transition: all 0.4s ease-in-out 0.1s;
-  width: 80px;
-  height: 200px;
-  position: absolute;
-  text-indent: 0;
-  padding-top: 90px;
-  padding-left: 25px;
-  display: block;
-  font: normal 30px "Font Awesome 5 Brands";
-  color: #fff;
-}
-.social a:after {
-  font-size: 48px;
-  padding-left: 20px;
-  padding-top: 80px;
-  margin-left: 85px;
-}
-.fa-github a:before,
-.fa-github a:after {
-  content: "\f09b";
-}
-.fa-github a:after {
-  background-color: #68217A;
-}
-.fa-twitter a:before,
-.fa-twitter a:after {
-  content: "\f099";
-}
-.fa-twitter a:after {
-  background-color: #22a3f2;
-}
-.fa-linkedin-in a:before,
-.fa-linkedin-in a:after {
-  content: "\f0e1";
-}
-.fa-linkedin-in a:after {
-  background-color: #283e4a;
-}
-.fa-kaggle a:before,
-.fa-kaggle a:after {
-  content: "\f5fa";
-}
-.fa-kaggle a:after {
-  background-color: #20beff;
-}
-.fa-stack-overflow a:before,
-.fa-stack-overflow a:after {
-  content: "\f16c";
-}
-.fa-stack-overflow a:after {
-  background-color: #F48024;
-}
-.fa-dev-m a:before,
-.fa-dev-m a:after {
-  content: "\f6cc";
-}
-.fa-dev-m a:after {
-  background-color: #08090A;
-}
-@media (max-width: 950px) {
-  .tab {
-    display: block;
-    width: 100%;
-    border-bottom: 3px #333 solid;
+
+@media (min-width: 700px) {
+  .card-list {
+    flex-direction: row;
   }
-  .accordion {
-    display: block;
-    min-width: 450px;
-    height: auto;
-  }
-  .tab .content {
-    width: 85%;
-  }
-  .tab:hover {
-    width: 100%;
-  }
-}
-@media (max-width: 680px) {
-  .container {
-    width: 95%;
-  }
-  .accordion {
-    width: 100%;
-    min-width: 350px;
+  .card:not(:first-child) {
+    margin-left: -2rem;
   }
 }
