@@ -15,7 +15,7 @@ const appRoutes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'services', component: ServicesComponent },
   { path: 'certificates', component: CertificationsComponent },
-  { path: '**', redirectTo: '/home' }
+  { path: '**', redirectTo: '/home' },
 ]
 
 import { MatCardModule } from '@angular/material/card'
@@ -23,14 +23,13 @@ import { MatIconModule } from '@angular/material/icon'
 import { MatListModule } from '@angular/material/list'
 import { MatTabsModule } from '@angular/material/tabs'
 
-
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     HomeComponent,
     CertificationsComponent,
-    ServicesComponent
+    ServicesComponent,
   ],
   imports: [
     BrowserModule,
@@ -44,9 +43,9 @@ import { MatTabsModule } from '@angular/material/tabs'
     MatCardModule,
     MatTabsModule,
     MatListModule,
-    MatIconModule
+    MatIconModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}

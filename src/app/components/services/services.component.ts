@@ -5,7 +5,7 @@ declare var gsap: any
 @Component({
   selector: 'app-services',
   templateUrl: './services.component.html',
-  styleUrls: ['./services.component.scss']
+  styleUrls: ['./services.component.scss'],
 })
 export class ServicesComponent implements OnInit {
   card2 = {
@@ -22,8 +22,8 @@ export class ServicesComponent implements OnInit {
       'Databases 🛢',
       'Strongly Security 🔒💪',
       'Container-Based Deployments 🐳',
-      'Mobile Apps 📱'
-    ]
+      'Mobile Apps 📱',
+    ],
   }
 
   ngOnInit() {
@@ -31,17 +31,17 @@ export class ServicesComponent implements OnInit {
       gsap.from('#right', {
         opacity: 0,
         duration: 1,
-        y: -50
+        y: -50,
       })
       gsap.from('#block1', {
         opacity: 0,
         duration: 1.5,
-        delay: 0.4
+        delay: 0.4,
       })
       gsap.from('#block2', {
         opacity: 0,
         duration: 1.5,
-        delay: 0.6
+        delay: 0.6,
       })
     } else {
       gsap.from('#left,#right,#block1,#block2,#block3', {
@@ -51,5 +51,5 @@ export class ServicesComponent implements OnInit {
     this.store.SERVICES_ANIMATION = false
   }
 
-  constructor(public store: StoreService) { }
+  constructor(public store: StoreService) {}
 }
