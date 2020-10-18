@@ -10,19 +10,6 @@ declare var gsap: any
 export class CertificationsComponent implements OnInit {
   items = [
     {
-      name: 'Education',
-      cert: [
-        {
-          preview: 'assets/img/thm-bachelor.png',
-          download: 'assets/pdf/thm-bachelor.pdf',
-        },
-        {
-          preview: 'assets/img/conference-synmikro.jpg',
-          download: 'assets/pdf/conference-synmikro.pdf',
-        },
-      ],
-    },
-    {
       name: 'Jobs',
       cert: [
         {
@@ -36,6 +23,19 @@ export class CertificationsComponent implements OnInit {
         {
           preview: 'assets/img/job-jlu.jpg',
           download: 'assets/pdf/job-jlu.pdf',
+        },
+      ],
+    },
+    {
+      name: 'Education',
+      cert: [
+        {
+          preview: 'assets/img/thm-bachelor.png',
+          download: 'assets/pdf/thm-bachelor.pdf',
+        },
+        {
+          preview: 'assets/img/conference-synmikro.jpg',
+          download: 'assets/pdf/conference-synmikro.pdf',
         },
       ],
     },
