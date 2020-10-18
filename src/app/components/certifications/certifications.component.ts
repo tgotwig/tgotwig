@@ -13,7 +13,7 @@ export class CertificationsComponent implements OnInit {
       name: 'Jobs',
       cert: [
         {
-          preview: 'assets/img/job-mig.png',
+          preview: 'assets/img/job-mig.jpg',
           download: 'assets/pdf/job-mig.pdf',
         },
         {
@@ -30,7 +30,7 @@ export class CertificationsComponent implements OnInit {
       name: 'Education',
       cert: [
         {
-          preview: 'assets/img/thm-bachelor.png',
+          preview: 'assets/img/thm-bachelor.jpg',
           download: 'assets/pdf/thm-bachelor.pdf',
         },
         {
