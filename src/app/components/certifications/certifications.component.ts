@@ -20,14 +20,6 @@ export class CertificationsComponent implements OnInit {
           preview: 'assets/img/conference-synmikro.jpg',
           download: 'assets/pdf/conference-synmikro.pdf',
         },
-        {
-          preview: 'assets/img/conference-gcb2017.jpg',
-          download: 'assets/pdf/conference-gcb2017.pdf',
-        },
-        {
-          preview: 'assets/img/conference-gcb2015.jpg',
-          download: 'assets/pdf/conference-gcb2015.pdf',
-        },
       ],
     },
     {
