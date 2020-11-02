@@ -12,17 +12,15 @@ export class ServicesComponent implements OnInit {
     title: `Full-Stack-Development`,
     desc: `
       I always try to program along with best practices which are in common with the majority of the people 💻
-      I can build the following things for you 🤗👇
+      I can offer the following things for you 🤗👇
     `,
     items: [
-      'All kinds of Websites 🖼✨',
-      'Interactive Web-Visualizations 📊✨',
-      'Bioinformatic Applications 🐸',
+      'All kinds of Websites 🖼',
+      'Interactive Web-Visualizations 📊',
       'Machine-Learning & AI 🤖',
+      'CI / CD automations ⚙️',
       'Databases 🛢',
-      'Strongly Security 🔒💪',
-      'Container-Based Deployments 🐳',
-      'Mobile Apps 📱',
+      'General code improvements 🧐',
     ],
   }
 
