@@ -5,3 +5,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in Bioinformatics
 <img src="img/dino.webp" alt="dino + avatar" align="left">
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=tgotwig&show_icons=true" /></p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
