@@ -18,7 +18,7 @@
     "@angular/platform-browser": "~10.1.6",
     "@angular/platform-browser-dynamic": "~10.1.6",
     "@angular/router": "~10.1.6",
-    "gsap": "^3.5.0",
+    "gsap": "^3.6.0",
     "hammerjs": "^2.0.8",
     "material-design-icons": "^3.0.1",
     "particles.js": "^2.0.0",
