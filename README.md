@@ -5,7 +5,7 @@ Hellooo there! 👋 I'm a passioned programmer with background in Bioinformatics
 <img src="img/dino.webp" alt="dino + avatar" align="left">
 
 <img src="img/octocat.webp" width="20%" align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tgotwig&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tgotwig&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true"/>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#44](https://github.com/TGotwig/flippy-panda/pull/44) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
