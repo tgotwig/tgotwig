@@ -11,5 +11,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in Bioinformatics
 <details><summary>⚡️ Recent activities</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#13](https://github.com/TGotwig/vidmerger/issues/13) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+2. 🎉 Merged PR [#44](https://github.com/TGotwig/flippy-panda/pull/44) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
+3. 🗣 Commented on [#78](https://github.com/danielecook/Awesome-Bioinformatics/issues/78) in [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+4. 🗣 Commented on [#29](https://github.com/TGotwig/flippy-panda/issues/29) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
+5. ❗️ Closed issue [#29](https://github.com/TGotwig/flippy-panda/issues/29) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
+<!--END_SECTION:activity-->
   
 </details>
