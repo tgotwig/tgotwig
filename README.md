@@ -11,11 +11,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in Bioinformatics
 <details><summary>⚡️ Recent activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#520](https://github.com/streetsidesoftware/cspell-dicts/pull/520) in [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
-2. 💪 Opened PR [#519](https://github.com/streetsidesoftware/cspell-dicts/pull/519) in [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
-3. 💪 Opened PR [#398](https://github.com/RustScan/RustScan/pull/398) in [RustScan/RustScan](https://github.com/RustScan/RustScan)
-4. ❗️ Closed issue [#13](https://github.com/TGotwig/vidmerger/issues/13) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-5. ❗️ Closed issue [#29](https://github.com/TGotwig/flippy-panda/issues/29) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
+1. ❗️ Opened issue [#22](https://github.com/TGotwig/vidmerger/issues/22) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+2. 💪 Opened PR [#520](https://github.com/streetsidesoftware/cspell-dicts/pull/520) in [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
+3. 💪 Opened PR [#519](https://github.com/streetsidesoftware/cspell-dicts/pull/519) in [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
+4. 💪 Opened PR [#398](https://github.com/RustScan/RustScan/pull/398) in [RustScan/RustScan](https://github.com/RustScan/RustScan)
+5. ❗️ Closed issue [#13](https://github.com/TGotwig/vidmerger/issues/13) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
 <!--END_SECTION:activity-->
   
 </details>
