@@ -11,11 +11,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in Bioinformatics
 <details><summary>⚡️ Recent activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/TGotwig/vidmerger/issues/23) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-2. ❗️ Opened issue [#22](https://github.com/TGotwig/vidmerger/issues/22) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-3. 💪 Opened PR [#520](https://github.com/streetsidesoftware/cspell-dicts/pull/520) in [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
-4. 💪 Opened PR [#519](https://github.com/streetsidesoftware/cspell-dicts/pull/519) in [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
-5. 💪 Opened PR [#398](https://github.com/RustScan/RustScan/pull/398) in [RustScan/RustScan](https://github.com/RustScan/RustScan)
+1. 🎉 Merged PR [#15](https://github.com/TGotwig/squat-timer/pull/15) in [TGotwig/squat-timer](https://github.com/TGotwig/squat-timer)
+2. ❗️ Opened issue [#23](https://github.com/TGotwig/vidmerger/issues/23) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+3. ❗️ Opened issue [#22](https://github.com/TGotwig/vidmerger/issues/22) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+4. 💪 Opened PR [#520](https://github.com/streetsidesoftware/cspell-dicts/pull/520) in [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
+5. 💪 Opened PR [#519](https://github.com/streetsidesoftware/cspell-dicts/pull/519) in [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
 <!--END_SECTION:activity-->
   
 </details>
