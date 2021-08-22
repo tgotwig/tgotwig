@@ -11,11 +11,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in Bioinformatics
 <details><summary>⚡️ Recent activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/TGotwig/flippy-panda/pull/52) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
-2. 💪 Opened PR [#547](https://github.com/streetsidesoftware/cspell-dicts/pull/547) in [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
-3. 🎉 Merged PR [#47](https://github.com/TGotwig/flippy-panda/pull/47) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
-4. 🎉 Merged PR [#48](https://github.com/TGotwig/flippy-panda/pull/48) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
-5. 🎉 Merged PR [#50](https://github.com/TGotwig/flippy-panda/pull/50) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
+1. ❗️ Closed issue [#24](https://github.com/TGotwig/vidmerger/issues/24) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+2. 🎉 Merged PR [#52](https://github.com/TGotwig/flippy-panda/pull/52) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
+3. 💪 Opened PR [#547](https://github.com/streetsidesoftware/cspell-dicts/pull/547) in [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
+4. 🎉 Merged PR [#47](https://github.com/TGotwig/flippy-panda/pull/47) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
+5. 🎉 Merged PR [#48](https://github.com/TGotwig/flippy-panda/pull/48) in [TGotwig/flippy-panda](https://github.com/TGotwig/flippy-panda)
 <!--END_SECTION:activity-->
   
 </details>
