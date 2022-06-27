@@ -8,11 +8,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/TGotwig/vidmerger/issues/34) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-2. 💪 Opened PR [#4](https://github.com/TGotwig/homebrew-linux-continuous-delivery/pull/4) in [TGotwig/homebrew-linux-continuous-delivery](https://github.com/TGotwig/homebrew-linux-continuous-delivery)
-3. 💪 Opened PR [#16](https://github.com/TGotwig/homebrew-continuous-delivery/pull/16) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
-4. 🎉 Merged PR [#1](https://github.com/TGotwig/homebrew-linux-vidmerger/pull/1) in [TGotwig/homebrew-linux-vidmerger](https://github.com/TGotwig/homebrew-linux-vidmerger)
-5. 🎉 Merged PR [#1](https://github.com/TGotwig/homebrew-vidmerger/pull/1) in [TGotwig/homebrew-vidmerger](https://github.com/TGotwig/homebrew-vidmerger)
+1. ❗️ Opened issue [#137](https://github.com/rycus86/prometheus_flask_exporter/issues/137) in [rycus86/prometheus_flask_exporter](https://github.com/rycus86/prometheus_flask_exporter)
+2. ❗️ Opened issue [#101](https://github.com/MSzturc/obsidian-advanced-slides/issues/101) in [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)
+3. ❗️ Opened issue [#34](https://github.com/TGotwig/vidmerger/issues/34) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+4. 💪 Opened PR [#4](https://github.com/TGotwig/homebrew-linux-continuous-delivery/pull/4) in [TGotwig/homebrew-linux-continuous-delivery](https://github.com/TGotwig/homebrew-linux-continuous-delivery)
+5. 💪 Opened PR [#16](https://github.com/TGotwig/homebrew-continuous-delivery/pull/16) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
   <!--END_SECTION:activity-->
 </details>
 
