@@ -61,4 +61,4 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 
 🤓 Dev Links 👉 [Chocolatey](https://community.chocolatey.org/profiles/tgotwig) | [CV](https://tgotwig.github.io/markdown-cv) | [Dev](https://dev.to/tgotwig) | [Observable](https://observablehq.com/@tgotwig?tab=profile) | [Stackoverflow](https://stackoverflow.com/users/6244047/thomas-gotwig?tab=profile) | [Vagrantup](https://app.vagrantup.com/tomisia)
 
-🍻 Social Links 👉 [LinkedIn](https://www.linkedin.com/in/tgotwig) | [MyAnimeList](https://myanimelist.net/profile/tgotwig) | [Trakt](https://trakt.tv/users/tgotwig)
+🍻 Social Links 👉 [LinkedIn](https://www.linkedin.com/in/tgotwig)
