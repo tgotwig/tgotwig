@@ -42,8 +42,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   - [⌨️ Razer BlackWidow Lite - US - Mercury](https://www.razer.com/gaming-keyboards/Razer-BlackWidow-Lite/RZ03-02640700-R3M1)
   - [🎧 Razer Kraken X - Mercury](https://www.razer.com/gaming-headsets/Razer-Kraken-X/RZ04-02890300-R3M1)
   - [🎤 Razer Seirēn X - Mercury](https://www.razer.com/streaming-microphones/Razer-Seiren-X/RZ19-02290400-R3M1)
-  - [🎴 Razer Core X - Mercury](https://www.razer.com/gaming-egpus/razer-core-x/RC21-01310200-R3U1)
-  - [🎴 GeForce GT 1030 2GD4 LP OC](https://us-store.msi.com/index.php?route=product/product&product_id=183)
   - [🏗️ Flexispot standing converter](https://www.amazon.de/gp/product/B073CQ3LGB/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 </details>
 
