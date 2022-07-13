@@ -9,10 +9,10 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-2. 🗣 Commented on [#101](https://github.com/MSzturc/obsidian-advanced-slides/issues/101) in [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)
-3. ❗️ Opened issue [#137](https://github.com/rycus86/prometheus_flask_exporter/issues/137) in [rycus86/prometheus_flask_exporter](https://github.com/rycus86/prometheus_flask_exporter)
-4. ❗️ Opened issue [#101](https://github.com/MSzturc/obsidian-advanced-slides/issues/101) in [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)
-5. ❗️ Opened issue [#34](https://github.com/TGotwig/vidmerger/issues/34) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+2. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+3. 🗣 Commented on [#101](https://github.com/MSzturc/obsidian-advanced-slides/issues/101) in [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)
+4. ❗️ Opened issue [#137](https://github.com/rycus86/prometheus_flask_exporter/issues/137) in [rycus86/prometheus_flask_exporter](https://github.com/rycus86/prometheus_flask_exporter)
+5. ❗️ Opened issue [#101](https://github.com/MSzturc/obsidian-advanced-slides/issues/101) in [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)
   <!--END_SECTION:activity-->
 </details>
 
