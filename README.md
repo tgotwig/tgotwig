@@ -52,7 +52,7 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   - Visual Studio Code, Intellij
   - GitKraken
   - CopyQ, Ksnip, OBS Studio
-  - Firefox, Tor Browser
+  - Safari, Firefox, Tor Browser
   - Obsidian, Zotero
   - Affinity Photo & Designer
 </details>
