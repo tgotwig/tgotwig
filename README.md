@@ -35,8 +35,7 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 <details>
   <summary>💻 Hardware</summary>
   
-  - [💻 Dell XPS 13 7390 Intel i7-10710U - Frost White](https://www.dell.com/en-us/shop/dell-laptops/xps-13-laptop/spd/xps-13-9310-laptop/xn9310cto235h)
-  - [💻 MacBook Air (Retina, 13-inch, 2020) - Silver](https://support.apple.com/kb/SP813?locale=en_US&viewlocale=en_US)
+  - [💻 MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=en_GB&viewlocale=en_US)
   - [📺 Alienware 27 Gaming Monitor - AW2720HFA](https://www.dell.com/ae/business/p/dell-aw2720hfa-monitor/pd)
   - [🖱️ Razer Atheris - Mercury](https://www.razer.com/gaming-mice/razer-atheris/RZ01-02170100-R3U1)
   - [⌨️ Razer BlackWidow Lite - US - Mercury](https://www.razer.com/gaming-keyboards/Razer-BlackWidow-Lite/RZ03-02640700-R3M1)
