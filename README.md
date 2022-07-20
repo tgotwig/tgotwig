@@ -12,7 +12,7 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 2. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
 3. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
 4. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-5. 🗣 Commented on [#101](https://github.com/MSzturc/obsidian-advanced-slides/issues/101) in [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)
+5. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
   <!--END_SECTION:activity-->
 </details>
 
