@@ -8,7 +8,7 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+1. 🗣 Commented on [#36](https://github.com/TGotwig/vidmerger/issues/36) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
 2. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
 3. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
 4. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
