@@ -37,7 +37,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   
   - [💻 MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=en_GB&viewlocale=en_US)
   - [📺 Apple Studio Display](https://www.apple.com/studio-display/specs)
-  - [🖱️ Razer Atheris - Mercury](https://www.razer.com/gaming-mice/razer-atheris/RZ01-02170100-R3U1)
   - [⌨️ Apple Magic Keyboard (US)](https://support.apple.com/kb/SP734?viewlocale=en_US&locale=en_US)
   - [🏗️ Flexispot standing converter](https://www.amazon.de/gp/product/B073CQ3LGB/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 </details>
