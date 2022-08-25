@@ -38,7 +38,7 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   - [💻 MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=en_GB&viewlocale=en_US)
   - [📺 Apple Studio Display](https://www.apple.com/studio-display/specs)
   - [🖱️ Razer Atheris - Mercury](https://www.razer.com/gaming-mice/razer-atheris/RZ01-02170100-R3U1)
-  - [⌨️ Razer BlackWidow Lite - US - Mercury](https://www.razer.com/gaming-keyboards/Razer-BlackWidow-Lite/RZ03-02640700-R3M1)
+  - [⌨️ Apple Magic Keyboard (US)](https://support.apple.com/kb/SP734?viewlocale=en_US&locale=en_US)
   - [🎧 Razer Kraken X - Mercury](https://www.razer.com/gaming-headsets/Razer-Kraken-X/RZ04-02890300-R3M1)
   - [🎤 Razer Seirēn X - Mercury](https://www.razer.com/streaming-microphones/Razer-Seiren-X/RZ19-02290400-R3M1)
   - [🏗️ Flexispot standing converter](https://www.amazon.de/gp/product/B073CQ3LGB/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
