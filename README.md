@@ -36,7 +36,7 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>💻 Hardware</summary>
   
   - [💻 MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=en_GB&viewlocale=en_US)
-  - [📺 Alienware 27 Gaming Monitor - AW2720HFA](https://www.dell.com/ae/business/p/dell-aw2720hfa-monitor/pd)
+  - [📺 Apple Studio Display](https://www.apple.com/studio-display/specs)
   - [🖱️ Razer Atheris - Mercury](https://www.razer.com/gaming-mice/razer-atheris/RZ01-02170100-R3U1)
   - [⌨️ Razer BlackWidow Lite - US - Mercury](https://www.razer.com/gaming-keyboards/Razer-BlackWidow-Lite/RZ03-02640700-R3M1)
   - [🎧 Razer Kraken X - Mercury](https://www.razer.com/gaming-headsets/Razer-Kraken-X/RZ04-02890300-R3M1)
