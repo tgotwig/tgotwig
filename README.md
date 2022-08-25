@@ -39,8 +39,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   - [📺 Apple Studio Display](https://www.apple.com/studio-display/specs)
   - [🖱️ Razer Atheris - Mercury](https://www.razer.com/gaming-mice/razer-atheris/RZ01-02170100-R3U1)
   - [⌨️ Apple Magic Keyboard (US)](https://support.apple.com/kb/SP734?viewlocale=en_US&locale=en_US)
-  - [🎧 Razer Kraken X - Mercury](https://www.razer.com/gaming-headsets/Razer-Kraken-X/RZ04-02890300-R3M1)
-  - [🎤 Razer Seirēn X - Mercury](https://www.razer.com/streaming-microphones/Razer-Seiren-X/RZ19-02290400-R3M1)
   - [🏗️ Flexispot standing converter](https://www.amazon.de/gp/product/B073CQ3LGB/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 </details>
 
