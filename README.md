@@ -8,9 +8,9 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/TGotwig/vidmerger/issues/36) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-2. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-3. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+1. 🗣 Commented on [#174](https://github.com/chubin/cheat.sheets/issues/174) in [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets)
+2. 💪 Opened PR [#181](https://github.com/chubin/cheat.sheets/pull/181) in [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets)
+3. 🗣 Commented on [#36](https://github.com/TGotwig/vidmerger/issues/36) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
 4. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
 5. 🗣 Commented on [#35](https://github.com/TGotwig/vidmerger/issues/35) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
   <!--END_SECTION:activity-->
