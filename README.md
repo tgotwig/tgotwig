@@ -8,11 +8,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6459](https://github.com/lensapp/lens/issues/6459) in [lensapp/lens](https://github.com/lensapp/lens)
-2. 🗣 Commented on [#6459](https://github.com/lensapp/lens/issues/6459) in [lensapp/lens](https://github.com/lensapp/lens)
-3. ❗️ Opened issue [#6459](https://github.com/lensapp/lens/issues/6459) in [lensapp/lens](https://github.com/lensapp/lens)
-4. 🗣 Commented on [#174](https://github.com/chubin/cheat.sheets/issues/174) in [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets)
-5. 💪 Opened PR [#181](https://github.com/chubin/cheat.sheets/pull/181) in [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets)
+1. ❗️ Opened issue [#37](https://github.com/TGotwig/vidmerger/issues/37) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+2. ❗️ Closed issue [#6459](https://github.com/lensapp/lens/issues/6459) in [lensapp/lens](https://github.com/lensapp/lens)
+3. 🗣 Commented on [#6459](https://github.com/lensapp/lens/issues/6459) in [lensapp/lens](https://github.com/lensapp/lens)
+4. ❗️ Opened issue [#6459](https://github.com/lensapp/lens/issues/6459) in [lensapp/lens](https://github.com/lensapp/lens)
+5. 🗣 Commented on [#174](https://github.com/chubin/cheat.sheets/issues/174) in [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets)
   <!--END_SECTION:activity-->
 </details>
 
