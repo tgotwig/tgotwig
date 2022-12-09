@@ -8,11 +8,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#33](https://github.com/TGotwig/vidmerger/issues/33) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-2. ❗️ Closed issue [#34](https://github.com/TGotwig/vidmerger/issues/34) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-3. ❗️ Closed issue [#25](https://github.com/TGotwig/vidmerger/issues/25) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-4. ❗️ Opened issue [#37](https://github.com/TGotwig/vidmerger/issues/37) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-5. ❗️ Closed issue [#6459](https://github.com/lensapp/lens/issues/6459) in [lensapp/lens](https://github.com/lensapp/lens)
+1. 🎉 Merged PR [#1](https://github.com/TGotwig/devops/pull/1) in [TGotwig/devops](https://github.com/TGotwig/devops)
+2. ❗️ Closed issue [#33](https://github.com/TGotwig/vidmerger/issues/33) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+3. ❗️ Closed issue [#34](https://github.com/TGotwig/vidmerger/issues/34) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+4. ❗️ Closed issue [#25](https://github.com/TGotwig/vidmerger/issues/25) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+5. ❗️ Opened issue [#37](https://github.com/TGotwig/vidmerger/issues/37) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
   <!--END_SECTION:activity-->
 </details>
 
