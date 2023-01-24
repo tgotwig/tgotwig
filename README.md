@@ -8,11 +8,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/TGotwig/invidious/pull/1) in [TGotwig/invidious](https://github.com/TGotwig/invidious)
-2. 🎉 Merged PR [#1](https://github.com/TGotwig/devops/pull/1) in [TGotwig/devops](https://github.com/TGotwig/devops)
-3. ❗️ Closed issue [#33](https://github.com/TGotwig/vidmerger/issues/33) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-4. ❗️ Closed issue [#34](https://github.com/TGotwig/vidmerger/issues/34) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
-5. ❗️ Closed issue [#25](https://github.com/TGotwig/vidmerger/issues/25) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+1. ❗️ Closed issue [#37](https://github.com/TGotwig/vidmerger/issues/37) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+2. 🗣 Commented on [#37](https://github.com/TGotwig/vidmerger/issues/37) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
+3. ❌ Closed PR [#1](https://github.com/TGotwig/invidious/pull/1) in [TGotwig/invidious](https://github.com/TGotwig/invidious)
+4. 🎉 Merged PR [#1](https://github.com/TGotwig/devops/pull/1) in [TGotwig/devops](https://github.com/TGotwig/devops)
+5. ❗️ Closed issue [#33](https://github.com/TGotwig/vidmerger/issues/33) in [TGotwig/vidmerger](https://github.com/TGotwig/vidmerger)
   <!--END_SECTION:activity-->
 </details>
 
