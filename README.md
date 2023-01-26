@@ -8,11 +8,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/TGotwig/homebrew-continuous-delivery/pull/18) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
-2. 💪 Opened PR [#18](https://github.com/TGotwig/homebrew-continuous-delivery/pull/18) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
-3. 💪 Opened PR [#17](https://github.com/TGotwig/homebrew-continuous-delivery/pull/17) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
-4. ❌ Closed PR [#4](https://github.com/TGotwig/homebrew-vidmerger/pull/4) in [TGotwig/homebrew-vidmerger](https://github.com/TGotwig/homebrew-vidmerger)
-5. 💪 Opened PR [#3](https://github.com/TGotwig/homebrew-vidmerger/pull/3) in [TGotwig/homebrew-vidmerger](https://github.com/TGotwig/homebrew-vidmerger)
+1. 💪 Opened PR [#22](https://github.com/TGotwig/homebrew-continuous-delivery/pull/22) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
+2. 💪 Opened PR [#5](https://github.com/TGotwig/homebrew-linux-continuous-delivery/pull/5) in [TGotwig/homebrew-linux-continuous-delivery](https://github.com/TGotwig/homebrew-linux-continuous-delivery)
+3. 💪 Opened PR [#21](https://github.com/TGotwig/homebrew-continuous-delivery/pull/21) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
+4. 💪 Opened PR [#20](https://github.com/TGotwig/homebrew-continuous-delivery/pull/20) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
+5. 🎉 Merged PR [#19](https://github.com/TGotwig/homebrew-continuous-delivery/pull/19) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
   <!--END_SECTION:activity-->
 </details>
 
