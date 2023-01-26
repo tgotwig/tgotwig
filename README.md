@@ -44,13 +44,19 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 <details>
   <summary>💿 Software</summary>
 
-  - MacOS, Windows, Zorin OS
-  - Visual Studio Code, Intellij
+  - MacOS
+  - Paste
+  - Safari
+  - ForkLift
+  - Obsidian
+  - ChatGPT
   - GitKraken
-  - CopyQ, Ksnip, OBS Studio
-  - Safari, Firefox, Tor Browser
-  - Obsidian, Zotero
+  - Luminar AI
+  - Warp Terminal
+  - Microsoft To Do
+  - Visual Studio Code
   - Affinity Photo & Designer
+  - Parallels Desktop & Toolbox
 </details>
 
 🤓 Dev Links 👉 [Chocolatey](https://community.chocolatey.org/profiles/tgotwig) | [CV](https://tgotwig.github.io/markdown-cv) | [Dev](https://dev.to/tgotwig) | [Observable](https://observablehq.com/@tgotwig?tab=profile) | [Stackoverflow](https://stackoverflow.com/users/6244047/thomas-gotwig?tab=profile) | [Vagrantup](https://app.vagrantup.com/tomisia)
