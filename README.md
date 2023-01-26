@@ -8,11 +8,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/TGotwig/homebrew-continuous-delivery/pull/22) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
-2. 💪 Opened PR [#5](https://github.com/TGotwig/homebrew-linux-continuous-delivery/pull/5) in [TGotwig/homebrew-linux-continuous-delivery](https://github.com/TGotwig/homebrew-linux-continuous-delivery)
-3. 💪 Opened PR [#21](https://github.com/TGotwig/homebrew-continuous-delivery/pull/21) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
-4. 💪 Opened PR [#20](https://github.com/TGotwig/homebrew-continuous-delivery/pull/20) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
-5. 🎉 Merged PR [#19](https://github.com/TGotwig/homebrew-continuous-delivery/pull/19) in [TGotwig/homebrew-continuous-delivery](https://github.com/TGotwig/homebrew-continuous-delivery)
+1. 🎉 Merged PR [#3](https://github.com/TGotwig/homebrew-linux-vidmerger/pull/3) in [TGotwig/homebrew-linux-vidmerger](https://github.com/TGotwig/homebrew-linux-vidmerger)
+2. 🎉 Merged PR [#5](https://github.com/TGotwig/homebrew-vidmerger/pull/5) in [TGotwig/homebrew-vidmerger](https://github.com/TGotwig/homebrew-vidmerger)
+3. 🎉 Merged PR [#6](https://github.com/TGotwig/homebrew-vidmerger/pull/6) in [TGotwig/homebrew-vidmerger](https://github.com/TGotwig/homebrew-vidmerger)
+4. 🎉 Merged PR [#4](https://github.com/TGotwig/homebrew-linux-vidmerger/pull/4) in [TGotwig/homebrew-linux-vidmerger](https://github.com/TGotwig/homebrew-linux-vidmerger)
+5. 💪 Opened PR [#5](https://github.com/TGotwig/homebrew-vidmerger/pull/5) in [TGotwig/homebrew-vidmerger](https://github.com/TGotwig/homebrew-vidmerger)
   <!--END_SECTION:activity-->
 </details>
 
