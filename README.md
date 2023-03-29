@@ -31,6 +31,7 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   - MacOS
   - Paste
   - Safari
+  - DeepL
   - ForkLift
   - Obsidian
   - ChatGPT
