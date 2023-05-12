@@ -8,9 +8,9 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1411](https://github.com/rust-unofficial/awesome-rust/pull/1411) in [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-2. 🎉 Merged PR [#3](https://github.com/TGotwig/homebrew-linux-vidmerger/pull/3) in [TGotwig/homebrew-linux-vidmerger](https://github.com/TGotwig/homebrew-linux-vidmerger)
-3. 🎉 Merged PR [#5](https://github.com/TGotwig/homebrew-vidmerger/pull/5) in [TGotwig/homebrew-vidmerger](https://github.com/TGotwig/homebrew-vidmerger)
+1. 🗣 Commented on [#38](https://github.com/tgotwig/vidmerger/issues/38) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
+2. ❗️ Closed issue [#38](https://github.com/tgotwig/vidmerger/issues/38) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
+3. 🗣 Commented on [#38](https://github.com/tgotwig/vidmerger/issues/38) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
 4. 🎉 Merged PR [#6](https://github.com/TGotwig/homebrew-vidmerger/pull/6) in [TGotwig/homebrew-vidmerger](https://github.com/TGotwig/homebrew-vidmerger)
 5. 🎉 Merged PR [#4](https://github.com/TGotwig/homebrew-linux-vidmerger/pull/4) in [TGotwig/homebrew-linux-vidmerger](https://github.com/TGotwig/homebrew-linux-vidmerger)
   <!--END_SECTION:activity-->
