@@ -8,11 +8,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/tgotwig/vidmerger/issues/42) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
-2. 🗣 Commented on [#41](https://github.com/tgotwig/vidmerger/issues/41#issuecomment-1829980145) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
-3. 🗣 Commented on [#38](https://github.com/tgotwig/vidmerger/issues/38#issuecomment-1544589160) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
-4. 🔒 Closed issue [#38](https://github.com/tgotwig/vidmerger/issues/38) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
-5. 🗣 Commented on [#38](https://github.com/tgotwig/vidmerger/issues/38#issuecomment-1544512402) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
+1. ❗ Opened issue [#43](https://github.com/tgotwig/vidmerger/issues/43) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
+2. ❌ Closed PR [#7](https://github.com/tgotwig/homebrew-vidmerger/pull/7) in [tgotwig/homebrew-vidmerger](https://github.com/tgotwig/homebrew-vidmerger)
+3. 🎉 Merged PR [#5](https://github.com/tgotwig/homebrew-linux-vidmerger/pull/5) in [tgotwig/homebrew-linux-vidmerger](https://github.com/tgotwig/homebrew-linux-vidmerger)
+4. 🔒 Closed issue [#42](https://github.com/tgotwig/vidmerger/issues/42) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
+5. 🔒 Closed issue [#40](https://github.com/tgotwig/vidmerger/issues/40) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
   <!--END_SECTION:activity-->
 </details>
 
