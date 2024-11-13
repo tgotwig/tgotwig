@@ -8,10 +8,10 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#50](https://github.com/tgotwig/vidmerger/issues/50) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
-2. ❗ Opened issue [#49](https://github.com/tgotwig/vidmerger/issues/49) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
-3. ❗ Opened issue [#741](https://github.com/Wilfred/difftastic/issues/741) in [Wilfred/difftastic](https://github.com/Wilfred/difftastic)
-4. 🗣 Commented on [#35](https://github.com/tgotwig/vidmerger/issues/35#issuecomment-2238462064) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
+1. 🎉 Merged PR [#1](https://github.com/tgotwig/images/pull/1) in [tgotwig/images](https://github.com/tgotwig/images)
+2. 🎉 Merged PR [#2](https://github.com/tgotwig/images/pull/2) in [tgotwig/images](https://github.com/tgotwig/images)
+3. 🎉 Merged PR [#3](https://github.com/tgotwig/images/pull/3) in [tgotwig/images](https://github.com/tgotwig/images)
+4. 🎉 Merged PR [#4](https://github.com/tgotwig/images/pull/4) in [tgotwig/images](https://github.com/tgotwig/images)
 5. 🔒 Closed issue [#35](https://github.com/tgotwig/vidmerger/issues/35) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
   <!--END_SECTION:activity-->
 </details>
