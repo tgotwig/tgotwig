@@ -8,11 +8,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tgotwig/images/pull/1) in [tgotwig/images](https://github.com/tgotwig/images)
-2. 🎉 Merged PR [#2](https://github.com/tgotwig/images/pull/2) in [tgotwig/images](https://github.com/tgotwig/images)
-3. 🎉 Merged PR [#3](https://github.com/tgotwig/images/pull/3) in [tgotwig/images](https://github.com/tgotwig/images)
-4. 🎉 Merged PR [#4](https://github.com/tgotwig/images/pull/4) in [tgotwig/images](https://github.com/tgotwig/images)
-5. 🔒 Closed issue [#35](https://github.com/tgotwig/vidmerger/issues/35) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)
+1. ❗ Opened issue [#5](https://github.com/tgotwig/ubuntu/issues/5) in [tgotwig/ubuntu](https://github.com/tgotwig/ubuntu)
+2. 🎉 Merged PR [#1](https://github.com/tgotwig/images/pull/1) in [tgotwig/images](https://github.com/tgotwig/images)
+3. 🎉 Merged PR [#2](https://github.com/tgotwig/images/pull/2) in [tgotwig/images](https://github.com/tgotwig/images)
+4. 🎉 Merged PR [#3](https://github.com/tgotwig/images/pull/3) in [tgotwig/images](https://github.com/tgotwig/images)
+5. 🎉 Merged PR [#4](https://github.com/tgotwig/images/pull/4) in [tgotwig/images](https://github.com/tgotwig/images)
   <!--END_SECTION:activity-->
 </details>
 
