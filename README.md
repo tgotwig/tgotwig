@@ -8,11 +8,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/tgotwig/ubuntu/issues/5) in [tgotwig/ubuntu](https://github.com/tgotwig/ubuntu)
-2. 🎉 Merged PR [#1](https://github.com/tgotwig/images/pull/1) in [tgotwig/images](https://github.com/tgotwig/images)
-3. 🎉 Merged PR [#2](https://github.com/tgotwig/images/pull/2) in [tgotwig/images](https://github.com/tgotwig/images)
-4. 🎉 Merged PR [#3](https://github.com/tgotwig/images/pull/3) in [tgotwig/images](https://github.com/tgotwig/images)
-5. 🎉 Merged PR [#4](https://github.com/tgotwig/images/pull/4) in [tgotwig/images](https://github.com/tgotwig/images)
+1. ❗ Opened issue [#8](https://github.com/tgotwig/ubuntu/issues/8) in [tgotwig/ubuntu](https://github.com/tgotwig/ubuntu)
+2. 🔒 Closed issue [#7](https://github.com/tgotwig/ubuntu/issues/7) in [tgotwig/ubuntu](https://github.com/tgotwig/ubuntu)
+3. 🔒 Closed issue [#6](https://github.com/tgotwig/ubuntu/issues/6) in [tgotwig/ubuntu](https://github.com/tgotwig/ubuntu)
+4. 🔒 Closed issue [#5](https://github.com/tgotwig/ubuntu/issues/5) in [tgotwig/ubuntu](https://github.com/tgotwig/ubuntu)
+5. ❗ Opened issue [#7](https://github.com/tgotwig/ubuntu/issues/7) in [tgotwig/ubuntu](https://github.com/tgotwig/ubuntu)
   <!--END_SECTION:activity-->
 </details>
 
