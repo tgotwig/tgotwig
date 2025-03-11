@@ -29,10 +29,10 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>💿 Software</summary>
 
   - MacOS
-  - Paste
-  - Safari
+    - Paste
+    - Safari
+    - ForkLift
   - DeepL
-  - ForkLift
   - Obsidian
   - ChatGPT
   - GitKraken
