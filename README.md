@@ -8,8 +8,8 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
   
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9294](https://github.com/excalidraw/excalidraw/issues/9294) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-2. ❗ Opened issue [#8](https://github.com/tgotwig/ubuntu/issues/8) in [tgotwig/ubuntu](https://github.com/tgotwig/ubuntu)
+1. ❗ Opened issue [#15438](https://github.com/tailscale/tailscale/issues/15438) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+2. ❗ Opened issue [#9294](https://github.com/excalidraw/excalidraw/issues/9294) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 3. 🔒 Closed issue [#7](https://github.com/tgotwig/ubuntu/issues/7) in [tgotwig/ubuntu](https://github.com/tgotwig/ubuntu)
 4. 🔒 Closed issue [#6](https://github.com/tgotwig/ubuntu/issues/6) in [tgotwig/ubuntu](https://github.com/tgotwig/ubuntu)
 5. 🔒 Closed issue [#5](https://github.com/tgotwig/ubuntu/issues/5) in [tgotwig/ubuntu](https://github.com/tgotwig/ubuntu)
