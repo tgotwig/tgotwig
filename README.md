@@ -8,9 +8,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#15438](https://github.com/tailscale/tailscale/issues/15438#issuecomment-2765557778) in [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
-2. ❗️ Opened issue [#15438](https://github.com/tailscale/tailscale/issues/15438) in [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
-3. ❗️ Opened issue [#9294](https://github.com/excalidraw/excalidraw/issues/9294) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
+1. ✔️ Closed issue [#20](https://github.com/tgotwig/tgotwig/issues/20) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
+2. ❗️ Opened issue [#20](https://github.com/tgotwig/tgotwig/issues/20) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
+3. 💬 Commented on [#15438](https://github.com/tailscale/tailscale/issues/15438#issuecomment-2765557778) in [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
+4. ❗️ Opened issue [#15438](https://github.com/tailscale/tailscale/issues/15438) in [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
+5. ❗️ Opened issue [#9294](https://github.com/excalidraw/excalidraw/issues/9294) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
