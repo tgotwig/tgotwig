@@ -1,0 +1,4 @@
+version: "3"
+
+tasks:
+  default: gh workflow run .github/workflows/recent-activity.yml
