@@ -2,7 +2,7 @@
 
 <img src="assets/octocat.webp" width="20%" align="right">
 
-Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformatics** from my **Bachelor** study 👨‍🎓 Interested in topics such as **Full-Stack-Development**, **DevOps** and **Life-Sciences** 🧑‍💻
+Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformatics** from my **Bachelor** study 👨‍🎓 Mainly interested in **DevOps**, **Cloud** and **Multimedia** topics 🧑‍💻
 
 <details>
   <summary>⚡️ Recent activities</summary>
