@@ -1,7 +1,7 @@
 # https://github.com/Readme-Workflows/recent-activity/blob/main/sample.yml
 
 settings:
-  max_lines: 10
+  max_lines: 100
   # https://github.com/Readme-Workflows/recent-activity/wiki/Configuration#supported-events
   disabled_events:
     - "push"
