@@ -8,11 +8,14 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#20](https://github.com/tgotwig/tgotwig/issues/20) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
-2. ❗️ Opened issue [#20](https://github.com/tgotwig/tgotwig/issues/20) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
-3. 💬 Commented on [#15438](https://github.com/tailscale/tailscale/issues/15438#issuecomment-2765557778) in [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
-4. ❗️ Opened issue [#15438](https://github.com/tailscale/tailscale/issues/15438) in [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
-5. ❗️ Opened issue [#9294](https://github.com/excalidraw/excalidraw/issues/9294) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
+1. 💬 Commented on [#36](https://github.com/tgotwig/vidmerger/pull/36#issuecomment-2804249335) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+2. ❌ Closed PR [#36](https://github.com/tgotwig/vidmerger/pull/36) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+3. 🎉 Merged PR [#61](https://github.com/tgotwig/vidmerger/pull/61) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+4. ✔️ Closed issue [#20](https://github.com/tgotwig/tgotwig/issues/20) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
+5. ❗️ Opened issue [#20](https://github.com/tgotwig/tgotwig/issues/20) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
+6. 💬 Commented on [#15438](https://github.com/tailscale/tailscale/issues/15438#issuecomment-2765557778) in [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
+7. ❗️ Opened issue [#15438](https://github.com/tailscale/tailscale/issues/15438) in [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
+8. ❗️ Opened issue [#9294](https://github.com/excalidraw/excalidraw/issues/9294) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
