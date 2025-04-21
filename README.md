@@ -8,20 +8,33 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#44](https://github.com/tgotwig/vidmerger/issues/44#issuecomment-2816647157) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-2. ❗️ Opened issue [#66](https://github.com/tgotwig/vidmerger/issues/66) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-3. 🔴 Requested changes in [#65](https://github.com/tgotwig/vidmerger/pull/65#pullrequestreview-2779909282) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-4. 💬 Commented on [#65](https://github.com/tgotwig/vidmerger/pull/65#discussion_r2050863541) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-5. 💬 Commented on [#65](https://github.com/tgotwig/vidmerger/pull/65#discussion_r2050862114) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-6. 💬 Commented on [#53](https://github.com/tgotwig/vidmerger/issues/53#issuecomment-2815287485) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-7. 💬 Commented on [#36](https://github.com/tgotwig/vidmerger/pull/36#issuecomment-2804249335) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-8. ❌ Closed PR [#36](https://github.com/tgotwig/vidmerger/pull/36) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-9. 🎉 Merged PR [#61](https://github.com/tgotwig/vidmerger/pull/61) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-10. ✔️ Closed issue [#20](https://github.com/tgotwig/tgotwig/issues/20) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
-11. ❗️ Opened issue [#20](https://github.com/tgotwig/tgotwig/issues/20) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
-12. 💬 Commented on [#15438](https://github.com/tailscale/tailscale/issues/15438#issuecomment-2765557778) in [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
-13. ❗️ Opened issue [#15438](https://github.com/tailscale/tailscale/issues/15438) in [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
-14. ❗️ Opened issue [#9294](https://github.com/excalidraw/excalidraw/issues/9294) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
+1. 💬 Commented on [#27](https://github.com/tgotwig/vidmerger/issues/27#issuecomment-2817331898) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+2. ✔️ Closed issue [#27](https://github.com/tgotwig/vidmerger/issues/27) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+3. 💬 Commented on [#12](https://github.com/tgotwig/vidmerger/issues/12#issuecomment-2817093727) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+4. ✔️ Closed issue [#12](https://github.com/tgotwig/vidmerger/issues/12) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+5. 💬 Commented on [#39](https://github.com/tgotwig/vidmerger/issues/39#issuecomment-2817093274) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+6. ✔️ Closed issue [#39](https://github.com/tgotwig/vidmerger/issues/39) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+7. ✔️ Closed issue [#44](https://github.com/tgotwig/vidmerger/issues/44) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+8. ✔️ Closed issue [#51](https://github.com/tgotwig/vidmerger/issues/51) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+9. 🎉 Merged PR [#7](https://github.com/tgotwig/homebrew-linux-vidmerger/pull/7) in [tgotwig/homebrew-linux-vidmerger](https://github.com/tgotwig/homebrew-linux-vidmerger)<br>
+10. 🎉 Merged PR [#8](https://github.com/tgotwig/homebrew-vidmerger/pull/8) in [tgotwig/homebrew-vidmerger](https://github.com/tgotwig/homebrew-vidmerger)<br>
+11. ✌️ Released [🎉 0.4.0](https://github.com/tgotwig/vidmerger/releases/tag/0.4.0) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+12. 💪 Opened PR [#7](https://github.com/tgotwig/homebrew-linux-vidmerger/pull/7) in [tgotwig/homebrew-linux-vidmerger](https://github.com/tgotwig/homebrew-linux-vidmerger)<br>
+13. 💪 Opened PR [#8](https://github.com/tgotwig/homebrew-vidmerger/pull/8) in [tgotwig/homebrew-vidmerger](https://github.com/tgotwig/homebrew-vidmerger)<br>
+14. 📖 Created new wiki page [Home](https://github.com/tgotwig/vidmerger/wiki/Home) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+15. 📖 Created new wiki page [🏡-Home](https://github.com/tgotwig/vidmerger/wiki/%F0%9F%8F%A1-Home) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+16. 🎉 Merged PR [#65](https://github.com/tgotwig/vidmerger/pull/65) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+17. 💬 Commented on [#44](https://github.com/tgotwig/vidmerger/issues/44#issuecomment-2816647157) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+18. ❗️ Opened issue [#66](https://github.com/tgotwig/vidmerger/issues/66) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+19. 🔴 Requested changes in [#65](https://github.com/tgotwig/vidmerger/pull/65#pullrequestreview-2779909282) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+20. 💬 Commented on [#65](https://github.com/tgotwig/vidmerger/pull/65#discussion_r2050863541) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+21. 💬 Commented on [#65](https://github.com/tgotwig/vidmerger/pull/65#discussion_r2050862114) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+22. 💬 Commented on [#53](https://github.com/tgotwig/vidmerger/issues/53#issuecomment-2815287485) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+23. 💬 Commented on [#36](https://github.com/tgotwig/vidmerger/pull/36#issuecomment-2804249335) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+24. ❌ Closed PR [#36](https://github.com/tgotwig/vidmerger/pull/36) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+25. 🎉 Merged PR [#61](https://github.com/tgotwig/vidmerger/pull/61) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+26. ✔️ Closed issue [#20](https://github.com/tgotwig/tgotwig/issues/20) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
+27. ❗️ Opened issue [#20](https://github.com/tgotwig/tgotwig/issues/20) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
