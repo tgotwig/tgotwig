@@ -51,6 +51,7 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   - **Maintain** a consistent code style — avoid mixing style and functional changes in one commit; first apply the style update, then the logic change.
   - **Preserve** full commit history when migrating repositories — instead of squashing into a single commit, add the new remote and push as-is.
   - **Write** meaningful commit messages — use the imperative mood (“Add feature,” not “Added feature”), and avoid vague messages like “Update” to help others understand changes at a glance.
+  - **Tag** commits not only for versioning — but also to highlight other special commits.
   </details>
 
   <details>
