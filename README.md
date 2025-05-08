@@ -52,6 +52,15 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   - **Preserve** full commit history when migrating repositories — instead of squashing into a single commit, add the new remote and push as-is.
   - **Write** meaningful commit messages — use the imperative mood (“Add feature,” not “Added feature”), and avoid vague messages like “Update” to help others understand changes at a glance.
   </details>
+
+  <details>
+    <summary>↳ 🌐 Networking</summary>
+
+  - **Document** the network layout using a diagram that includes key IPs, DNS names, and boundaries between subnets or zones.
+  - **List** physical and virtual devices in a table with their IPs, DNS names, and MAC addresses, group them in CIDRs.
+  - **Prefer** DNS names over hardcoded IPs, for better clarity and minimal fixes when the IP changes.
+  - **Provide** a central "intranet" homepage linking to all important internal services.
+  </details>
 </details>
 
 🐿️ [ChipChap](https://chipchap.s3.eu-central-1.amazonaws.com/index.html) - GUI app For editing chapter infos in video and audio files. (WiP)
