@@ -36,6 +36,14 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>💡 My Coding Principles</summary>
 
   <details>
+    <summary>↳ ☕ Java, Python, ...</summary>
+
+  - **Keep** code compact — limit function parameters (ideally ≤ 3), avoid deep nesting, and stick to a reasonable maximum line length.
+  - **Use** consistent and meaningful naming — predictable naming patterns make searching, navigation, and bulk refactoring (e.g., find & replace) much more reliable and efficient.
+  - **Write** tests at multiple levels — use **unit tests** to check always one function without I/O (mock external dependencies where needed), **integration tests** to check always one function with real I/O, and **end-to-end tests** to check a full chain of functions (like `Camunda` or `Selenium` workflows, or a cli tool).
+  </details>
+
+  <details>
     <summary>↳ 🌳 Versioning (Git)</summary>
 
   - **Use** a Git GUI tool like `GitKraken` — a visual overview often leads to cleaner commits and makes advanced Git features (like interactive rebase or cherry-pick) more accessible.
