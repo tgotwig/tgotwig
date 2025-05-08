@@ -63,6 +63,13 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   - **Prefer** DNS names over hardcoded IPs, for better clarity and minimal fixes when the IP changes.
   - **Provide** a central "intranet" homepage linking to all important internal services.
   </details>
+
+  <details>
+    <summary>↳ 🔮 Terraform</summary>
+
+  - **Design** modules for reusability — for deploying slightly different resources easily.
+  - **Manage** the state file in an object storage — ensure it’s versioned, and use a lock file to prevent concurrent modifications. Consider maintaining a shared calendar for coordinated infrastructure changes.
+  </details>
 </details>
 
 🐿️ [ChipChap](https://chipchap.s3.eu-central-1.amazonaws.com/index.html) - GUI app For editing chapter infos in video and audio files. (WiP)
