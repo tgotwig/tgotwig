@@ -32,6 +32,20 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 <!--RECENT_ACTIVITY:end-->
 </details>
 
+<details>
+  <summary>💡 My Coding Principles</summary>
+
+  <details>
+    <summary>↳ 🌳 Versioning (Git)</summary>
+
+  - **Use** a Git GUI tool like `GitKraken` — a visual overview often leads to cleaner commits and makes advanced Git features (like interactive rebase or cherry-pick) more accessible.
+  - **Keep** commits focused and atomic — aim for “one logical change per commit” to make reviews easier and enable selective acceptance or reversion.
+  - **Maintain** a consistent code style — avoid mixing style and functional changes in one commit; first apply the style update, then the logic change.
+  - **Preserve** full commit history when migrating repositories — instead of squashing into a single commit, add the new remote and push as-is.
+  - **Write** meaningful commit messages — use the imperative mood (“Add feature,” not “Added feature”), and avoid vague messages like “Update” to help others understand changes at a glance.
+  </details>
+</details>
+
 🐿️ [ChipChap](https://chipchap.s3.eu-central-1.amazonaws.com/index.html) - GUI app For editing chapter infos in video and audio files. (WiP)
 
 🤓 Dev Links 👉 [Chocolatey](https://community.chocolatey.org/profiles/tgotwig) | [Dev](https://dev.to/tgotwig) | [Observable](https://observablehq.com/@tgotwig?tab=profile) | [Stackoverflow](https://stackoverflow.com/users/6244047/thomas-gotwig?tab=profile) | [Vagrantup](https://app.vagrantup.com/tomisia)
