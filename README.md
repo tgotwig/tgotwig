@@ -75,6 +75,16 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   </details>
 
   <details>
+    <summary>↳ 🐳 Containerization</summary>
+
+  - **Configure** via env vars — better than via files with different encodings and permissions.
+  - **Grant** 3rd party access via scoped tokens — avoid overly permissive ones.
+  - **Print** all logs to the terminal — for a flexible understanding.
+  - **Develop** with dev images — with all your fav tools in it.
+  - **Minimize** images — for running in production.
+  </details>
+
+  <details>
     <summary>↳ 🔮 Terraform</summary>
 
   - **Design** modules for reusability — for deploying slightly different resources easily.
