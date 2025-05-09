@@ -65,6 +65,16 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   </details>
 
   <details>
+    <summary>↳ ⚙️ Automation</summary>
+
+  - **Build** the project ideally with 1 cmd — after cloning it, typically via `Taskfile`, also in CI / CD.
+  - **Centralize** testing and releasing via CI / CD — and run them mostly during pull requests.
+  - **Monitor** your resource usages — and have reportings before server crashes due to it.
+  - **Backup** your data frequently in 3 ways — while removing some versions over time.
+  - **Don't** try to automate everything — have runbooks for certain tasks.
+  </details>
+
+  <details>
     <summary>↳ 🔮 Terraform</summary>
 
   - **Design** modules for reusability — for deploying slightly different resources easily.
