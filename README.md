@@ -38,7 +38,7 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <details>
     <summary>↳ 🌳 Versioning (Git)</summary>
 
-  - **Use** a Git GUI tool like `GitKraken` — a visual overview often leads to cleaner commits and makes advanced Git features (like interactive rebase or cherry-pick) more accessible.
+  - **Use** a Git GUI tool like `GitKraken` — a visual overview often leads to cleaner commits and makes advanced Git features (like interactive rebase or working with submodules) more accessible.
   - **Keep** commits focused and atomic — aim for “one logical change per commit” to make reviews easier and enable selective acceptance or reversion.
   - **Maintain** a consistent code style — avoid mixing style and functional changes in one commit; first apply the style update, then the logic change.
   - **Preserve** full commit history when migrating repositories — instead of squashing into a single commit, add the new remote and push as-is.
