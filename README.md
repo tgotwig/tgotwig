@@ -20,6 +20,12 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>💡 My Coding Principles</summary>
 
   <details>
+    <summary>↳ ☝️ General ones</summary>
+
+  - **Check** for consistency across tools and platforms — use diff checkers on editor content and use things like the GitHub and Confluence search across all your projects and wiki pages.
+  </details>
+
+  <details>
     <summary>↳ ☕ Java, Python, ...</summary>
 
   - **Keep** code compact — limit function parameters (ideally ≤ 3), avoid deep nesting, and stick to a reasonable maximum line length.
