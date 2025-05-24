@@ -12,7 +12,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 2. 💬 Commented on [#53](https://github.com/tgotwig/vidmerger/issues/53#issuecomment-2844265357) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 3. 💬 Commented on [#53](https://github.com/tgotwig/vidmerger/issues/53#issuecomment-2844241718) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 4. 📖 Created new wiki page [Section-Subsection](https://github.com/tgotwig/vidmerger/wiki/Section-Subsection) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-5. 📔 Created new repository [tgotwig/dotfiles](https://github.com/tgotwig/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
