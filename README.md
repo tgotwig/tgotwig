@@ -8,7 +8,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#72](https://github.com/tgotwig/vidmerger/pull/72) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
