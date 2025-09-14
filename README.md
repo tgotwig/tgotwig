@@ -8,6 +8,11 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
 
   <!--RECENT_ACTIVITY:start-->
+1. 🎉 Merged PR [#75](https://github.com/tgotwig/vidmerger/pull/75) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+2. 🎉 Merged PR [#74](https://github.com/tgotwig/vidmerger/pull/74) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+3. 🎉 Merged PR [#73](https://github.com/tgotwig/vidmerger/pull/73) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+4. 💬 Commented on [#71](https://github.com/tgotwig/vidmerger/issues/71#issuecomment-3286769720) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+5. ✔️ Closed issue [#71](https://github.com/tgotwig/vidmerger/issues/71) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
