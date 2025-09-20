@@ -8,12 +8,19 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [tgotwig/java](https://github.com/tgotwig/java)<br>
-2. 🎉 Merged PR [#75](https://github.com/tgotwig/vidmerger/pull/75) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-3. 🎉 Merged PR [#74](https://github.com/tgotwig/vidmerger/pull/74) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-4. 🎉 Merged PR [#73](https://github.com/tgotwig/vidmerger/pull/73) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-5. 💬 Commented on [#71](https://github.com/tgotwig/vidmerger/issues/71#issuecomment-3286769720) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-6. ✔️ Closed issue [#71](https://github.com/tgotwig/vidmerger/issues/71) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+1. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309823837) in [tgotwig/java](https://github.com/tgotwig/java)<br>
+2. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309821192) in [tgotwig/java](https://github.com/tgotwig/java)<br>
+3. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309804444) in [tgotwig/java](https://github.com/tgotwig/java)<br>
+4. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309783950) in [tgotwig/java](https://github.com/tgotwig/java)<br>
+5. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309733438) in [tgotwig/java](https://github.com/tgotwig/java)<br>
+6. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309726102) in [tgotwig/java](https://github.com/tgotwig/java)<br>
+7. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309713032) in [tgotwig/java](https://github.com/tgotwig/java)<br>
+8. 📔 Created new repository [tgotwig/java](https://github.com/tgotwig/java)<br>
+9. 🎉 Merged PR [#75](https://github.com/tgotwig/vidmerger/pull/75) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+10. 🎉 Merged PR [#74](https://github.com/tgotwig/vidmerger/pull/74) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+11. 🎉 Merged PR [#73](https://github.com/tgotwig/vidmerger/pull/73) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+12. 💬 Commented on [#71](https://github.com/tgotwig/vidmerger/issues/71#issuecomment-3286769720) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+13. ✔️ Closed issue [#71](https://github.com/tgotwig/vidmerger/issues/71) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
