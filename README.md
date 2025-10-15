@@ -14,8 +14,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 4. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309783950) in [tgotwig/java](https://github.com/tgotwig/java)<br>
 5. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309733438) in [tgotwig/java](https://github.com/tgotwig/java)<br>
 6. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309726102) in [tgotwig/java](https://github.com/tgotwig/java)<br>
-7. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309713032) in [tgotwig/java](https://github.com/tgotwig/java)<br>
-8. 📔 Created new repository [tgotwig/java](https://github.com/tgotwig/java)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
