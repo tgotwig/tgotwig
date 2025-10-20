@@ -8,12 +8,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309823837) in [tgotwig/java](https://github.com/tgotwig/java)<br>
-2. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309821192) in [tgotwig/java](https://github.com/tgotwig/java)<br>
-3. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309804444) in [tgotwig/java](https://github.com/tgotwig/java)<br>
-4. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309783950) in [tgotwig/java](https://github.com/tgotwig/java)<br>
-5. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309733438) in [tgotwig/java](https://github.com/tgotwig/java)<br>
-6. 💬 Commented on [#1](https://github.com/tgotwig/java/pull/1#issuecomment-3309726102) in [tgotwig/java](https://github.com/tgotwig/java)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
