@@ -8,7 +8,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](undefined) in [tgotwig/java](https://github.com/tgotwig/java)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
