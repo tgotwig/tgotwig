@@ -1,0 +1,19 @@
+{
+  "image": "ghcr.io/tgotwig/ubuntu:0.0.7-ubuntu24.04",
+  "containerEnv": {
+    "GH_GHCR_TOKEN": "${localEnv:GH_GHCR_TOKEN}"
+  },
+  "runArgs": [
+    "--name=tgotwig-dev-images",
+    "--network=host",
+    "-v",
+    "/var/run/docker.sock:/var/run/docker.sock"
+  ],
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.minimumContrastRatio": 1
+      }
+    }
+  }
+}
