@@ -4,7 +4,7 @@
     "GH_GHCR_TOKEN": "${localEnv:GH_GHCR_TOKEN}"
   },
   "runArgs": [
-    "--name=tgotwig-dev-images",
+    "--name=tgotwig-devcontainer",
     "--network=host",
     "-v",
     "/var/run/docker.sock:/var/run/docker.sock"
