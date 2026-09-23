@@ -8,6 +8,8 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
 
   <!--RECENT_ACTIVITY:start-->
+1. 💬 Commented on [#86](https://github.com/tgotwig/vidmerger/pull/86#issuecomment-5784607285) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+2. 💬 Commented on [#88](https://github.com/tgotwig/vidmerger/pull/88#issuecomment-5784242451) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <br>
