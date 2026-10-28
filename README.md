@@ -8,11 +8,12 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#11](undefined) in [tgotwig/homebrew-linux-vidmerger](https://github.com/tgotwig/homebrew-linux-vidmerger)<br>
-2. 💪 Opened PR [#12](undefined) in [tgotwig/homebrew-vidmerger](https://github.com/tgotwig/homebrew-vidmerger)<br>
-3. 💬 Commented on [#113](https://github.com/tgotwig/vidmerger/pull/113#discussion_r4304692607) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-4. 💪 Opened PR [#113](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-5. 💬 Commented on [#112](https://github.com/tgotwig/vidmerger/pull/112#discussion_r4304567833) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+1. 💪 Opened PR [#117](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+2. 💬 Commented on [#115](https://github.com/tgotwig/vidmerger/pull/115#discussion_r4390820770) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+3. 💪 Opened PR [#116](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+4. 💪 Opened PR [#115](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+5. 💪 Opened PR [#114](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+6. 💪 Opened PR [#11](undefined) in [tgotwig/homebrew-linux-vidmerger](https://github.com/tgotwig/homebrew-linux-vidmerger)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <br>
