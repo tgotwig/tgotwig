@@ -32,7 +32,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 22. 💬 Commented on [#122](https://github.com/tgotwig/vidmerger/pull/122#issuecomment-6551319139) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 23. 💬 Commented on [#122](https://github.com/tgotwig/vidmerger/pull/122#discussion_r4433839917) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 24. 💬 Commented on [#122](https://github.com/tgotwig/vidmerger/pull/122#discussion_r4433820093) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-25. 💬 Commented on [#122](https://github.com/tgotwig/vidmerger/pull/122#discussion_r4433798215) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <br>
