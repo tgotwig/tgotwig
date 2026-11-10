@@ -23,15 +23,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 13. 💬 Commented on [#124](https://github.com/tgotwig/vidmerger/pull/124#discussion_r4436470943) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 14. 💬 Commented on [#124](https://github.com/tgotwig/vidmerger/pull/124#discussion_r4435560340) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 15. 💬 Commented on [#124](https://github.com/tgotwig/vidmerger/pull/124#issuecomment-6557787435) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-16. 💬 Commented on [#124](https://github.com/tgotwig/vidmerger/pull/124#discussion_r4435373790) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-17. 💬 Commented on [#124](https://github.com/tgotwig/vidmerger/pull/124#discussion_r4435343880) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-18. 💪 Opened PR [#124](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-19. 💬 Commented on [#123](https://github.com/tgotwig/vidmerger/pull/123#issuecomment-6551655662) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-20. 💬 Commented on [#123](https://github.com/tgotwig/vidmerger/pull/123#discussion_r4433961234) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-21. 💪 Opened PR [#123](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-22. 💬 Commented on [#122](https://github.com/tgotwig/vidmerger/pull/122#issuecomment-6551319139) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-23. 💬 Commented on [#122](https://github.com/tgotwig/vidmerger/pull/122#discussion_r4433839917) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-24. 💬 Commented on [#122](https://github.com/tgotwig/vidmerger/pull/122#discussion_r4433820093) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <br>
