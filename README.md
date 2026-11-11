@@ -20,9 +20,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 10. 💬 Commented on [#124](https://github.com/tgotwig/vidmerger/pull/124#issuecomment-6563547707) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 11. 💬 Commented on [#124](https://github.com/tgotwig/vidmerger/pull/124#discussion_r4437227001) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 12. 💬 Commented on [#124](https://github.com/tgotwig/vidmerger/pull/124#issuecomment-6563336515) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-13. 💬 Commented on [#124](https://github.com/tgotwig/vidmerger/pull/124#discussion_r4436470943) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-14. 💬 Commented on [#124](https://github.com/tgotwig/vidmerger/pull/124#discussion_r4435560340) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-15. 💬 Commented on [#124](https://github.com/tgotwig/vidmerger/pull/124#issuecomment-6557787435) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <br>
