@@ -29,9 +29,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 19. ❌ Closed PR [#21](undefined) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
 20. 💬 Commented on [#21](https://github.com/tgotwig/tgotwig/pull/21#issuecomment-6885521541) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
 21. 💪 Opened PR [#21](undefined) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
-22. 💪 Opened PR [#138](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-23. 💬 Commented on [#137](https://github.com/tgotwig/vidmerger/pull/137#issuecomment-6883460366) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-24. 💬 Commented on [#137](https://github.com/tgotwig/vidmerger/pull/137#discussion_r4575061699) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <br>
