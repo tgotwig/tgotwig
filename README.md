@@ -28,8 +28,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 18. 💬 Commented on [#22](https://github.com/tgotwig/tgotwig/pull/22#issuecomment-6885675519) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
 19. 💪 Opened PR [#22](undefined) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
 20. ❌ Closed PR [#21](undefined) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
-21. 💬 Commented on [#21](https://github.com/tgotwig/tgotwig/pull/21#issuecomment-6885521541) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
-22. 💪 Opened PR [#21](undefined) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <br>
