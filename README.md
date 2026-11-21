@@ -8,26 +8,29 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
   <summary>⚡️ Recent activities</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](undefined) in [tgotwig/tgdiff](https://github.com/tgotwig/tgdiff)<br>
-2. 💪 Opened PR [#140](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-3. ✔️ Closed issue [#125](https://github.com/tgotwig/vidmerger/issues/125) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-4. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#discussion_r4579040178) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-5. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#issuecomment-6895716913) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-6. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#issuecomment-6894946849) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-7. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#issuecomment-6894429421) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-8. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#issuecomment-6894213909) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-9. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#issuecomment-6893487650) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-10. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#discussion_r4578098436) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-11. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#discussion_r4578098384) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-12. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#issuecomment-6893105776) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-13. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#discussion_r4576569682) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-14. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#discussion_r4576569577) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-15. 💬 Commented on [#139](https://github.com/tgotwig/vidmerger/pull/139#discussion_r4576533553) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-16. 💪 Opened PR [#139](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-17. ❌ Closed PR [#22](undefined) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
-18. 💬 Commented on [#22](https://github.com/tgotwig/tgotwig/pull/22#issuecomment-6885675519) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
-19. 💪 Opened PR [#22](undefined) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
-20. ❌ Closed PR [#21](undefined) in [tgotwig/tgotwig](https://github.com/tgotwig/tgotwig)<br>
+1. 💬 Commented on [#485430](https://github.com/microsoft/winget-pkgs/pull/485430#issuecomment-7053061903) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)<br>
+2. 💪 Opened PR [#485430](undefined) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)<br>
+3. 🔱 Forked [tgotwig/winget-pkgs](https://github.com/tgotwig/winget-pkgs) from [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)<br>
+4. 💪 Opened PR [#149](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+5. ❌ Closed PR [#148](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+6. 💪 Opened PR [#148](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+7. 💪 Opened PR [#13](undefined) in [tgotwig/homebrew-vidmerger](https://github.com/tgotwig/homebrew-vidmerger)<br>
+8. 💪 Opened PR [#12](undefined) in [tgotwig/homebrew-linux-vidmerger](https://github.com/tgotwig/homebrew-linux-vidmerger)<br>
+9. 💬 Commented on [#147](https://github.com/tgotwig/vidmerger/pull/147#issuecomment-7046941494) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+10. 💬 Commented on [#147](https://github.com/tgotwig/vidmerger/pull/147#discussion_r4645490272) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+11. 💬 Commented on [#147](https://github.com/tgotwig/vidmerger/pull/147#issuecomment-7046518590) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+12. 💬 Commented on [#147](https://github.com/tgotwig/vidmerger/pull/147#discussion_r4645458072) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+13. 💪 Opened PR [#147](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+14. 💪 Opened PR [#146](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+15. 💬 Commented on [#144](https://github.com/tgotwig/vidmerger/pull/144#discussion_r4642219535) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+16. 💪 Opened PR [#144](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+17. 💬 Commented on [#142](https://github.com/tgotwig/vidmerger/pull/142#issuecomment-7038456506) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+18. ❌ Closed PR [#143](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+19. 💪 Opened PR [#143](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+20. 💪 Opened PR [#142](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+21. 💪 Opened PR [#141](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
+22. ❌ Closed PR [#1](undefined) in [tgotwig/tgdiff](https://github.com/tgotwig/tgdiff)<br>
+23. 💪 Opened PR [#140](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <br>
