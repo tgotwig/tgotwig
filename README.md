@@ -31,7 +31,6 @@ Hellooo there! 👋 I'm a passioned programmer with background in **Bioinformati
 21. 💪 Opened PR [#143](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 22. 💪 Opened PR [#142](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
 23. 💪 Opened PR [#141](undefined) in [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger)<br>
-24. ❌ Closed PR [#1](undefined) in [tgotwig/tgdiff](https://github.com/tgotwig/tgdiff)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 <br>
